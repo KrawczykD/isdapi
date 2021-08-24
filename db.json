@@ -191,6 +191,10 @@
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png"}
          
                 ]
+            },
+
+            "bottomBar" :{
+                "imgsrc" : "https://via.placeholder.com/728x90.png"
             }
         }
     },
