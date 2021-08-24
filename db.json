@@ -1,16 +1,1543 @@
-{
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+{   
+    "integral" : {
+        "brand" : "integral",
+        "brandColor" : "F7931E",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Products",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Integral Create" , "link":"javascript:goToRoute('create')"},
+                        {"name":"Integral Accessories" , "link":"javascript:goToRoute('accessories')"},
+                        {"name":"Integral Vision" , "link":"javascript:goToRoute('vision')"},
+                        {"name":"Integral Milano" , "link":"javascript:goToRoute('milano')"},
+                        {"name":"Integral Slide" , "link":"javascript:goToRoute('slide')"},
+                        {"name":"Integral Fusion" , "link":"javascript:goToRoute('fusion')"},
+                        {"name":"Integral Plas" , "link":"javascript:goToRoute('plas')"},
+                        {"name":"Integral Serica" , "link":"javascript:goToRoute('serica')"},
+                        {"name":"Integral Alvic" , "link":"javascript:goToRoute('alvic')"}
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777",
+                  "link":"javascript:goToRoute('home')"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co",
+                  "link":"javascript:goToRoute('home')"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station",
+                  "link":"javascript:goToRoute('home')"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook",
+                  "link":"javascript:goToRoute('home')"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram",
+                  "link":"javascript:goToRoute('home')"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#088a2f",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
+                            "link":"javascript:goToRoute('create')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#e7000e",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#00a1e5",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png",
+                            "link":"javascript:goToRoute('vision')"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#00aba4",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png",
+                            "link":"javascript:goToRoute('plas')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#ced4da",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png",
+                            "link":"javascript:goToRoute('slide')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#c57b66",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png",
+                            "link":"javascript:goToRoute('milano')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#ae8c00",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png",
+                            "link":"javascript:goToRoute('accessories')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#000000",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png",
+                            "link":"javascript:goToRoute('accessories')"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#001021",
+                            "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png",
+                            "link":"javascript:goToRoute('accessories')"
+                        }
+        
+                ]
+            },
+
+            "slider": {
+                "Color":"FFFFFF",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "000000",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png"}
+         
+                ]
+            }
+        }
+    },
+    "create" : {
+        "brand" : "create",
+        "brandColor" : "088a2f",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Vinyl Wrapped Range",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Colour Range" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Edge Profiles" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Centre Routs" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Door Design" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Door Collection" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Door Accessories" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Panel Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Worktop Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Product Surcharges" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Manhattan Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Feature Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Accessories" , "link":"javascript:goToRoute('home')"}
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#088a2f",
+                            "imgsrc": "https://via.placeholder.com/500.png/088a2f/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "fusion" : {
+        "brand" : "fusion",
+        "brandColor" : "e7000e",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Contemporary Slab Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Fusion Contemporary Slab Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Mix & Match" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Panel Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Accessory Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Colors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Mirror Gloss Colours" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Mirror Gloss Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Gloss Panel Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Fusion Gloss Accessory Prices" , "link":"javascript:goToRoute('home')"}
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "vision": {
+        "brand" : "vision",
+        "brandColor" : "00a1e5",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Acrylic Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Vision Acrylic Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Gloss" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Supermatt" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Acrylic Glass Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Edging Options" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Ultra Gloss Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Acrylic Mirror Board" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Acrylic Ocean Board" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Acrylic Accessories" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Vision Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Panel Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curver Acrylic Accessories" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Vision Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Pane Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Curved Acrylic Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Accessory Prices" , "link":"javascript:goToRoute('home')"}
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "plas" : {
+        "brand" : "plas",
+        "brandColor" : "0dcaf0",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Cut & Edge",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Plas Cut & Edge Colours & Prices" , "link":"javascript:goToRoute('home')"}
+                        
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "slide" : {
+        "brand" : "slide",
+        "brandColor" : "737574",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Sliding Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Sliding Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Frame Options" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Door Styles" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Board Options" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Sliding Door Buldier" , "link":"javascript:goToRoute('home')"}
+                        
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "accessories" : {
+        "brand" : "accessories",
+        "brandColor" : "ae8c00",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Handles - Hinges - Drawers etc.",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Handles" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Hinges" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Drawers" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Storage" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Accessories" , "link":"javascript:goToRoute('home')"}
+                        
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+    "milano" : {
+        "brand" : "milano",
+        "brandColor" : "c57b66",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Veneer & Stone Style Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Milano Veneer & Stone Style Doors" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Milano Doors Colours" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Milano Door Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Panel Prices" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Accessory Prices" , "link":"javascript:goToRoute('home')"}
+                        
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+
+    "serica" :  {
+        "brand" : "serica",
+        "brandColor" : "#000000",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Slab Supermatt Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"serica" , "link":"javascript:goToRoute('home')"},
+                        {"name":"serica" , "link":"javascript:goToRoute('home')"},
+                        {"name":"serica" , "link":"javascript:goToRoute('home')"},
+                        {"name":"serica" , "link":"javascript:goToRoute('home')"},
+                        {"name":"serica" , "link":"javascript:goToRoute('home')"}
+                    
+                        
+
+                        
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
+    },
+
+    "alvic" : {
+        "brand" : "alvic",
+        "brandColor" : "001021",
+        "welcomeText" :"",
+        "header" : {
+            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png",
+            "categories":[
+                {
+                    "name":"Home",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"About Us",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"About Us" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Our Factory" , "link":""}
+                    ]
+                },
+        
+                {
+                    "name":"Abstract Doors",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"alvic" , "link":"javascript:goToRoute('home')"},
+                        {"name":"alvic" , "link":"javascript:goToRoute('home')"},
+                        {"name":"alvic" , "link":"javascript:goToRoute('home')"},
+                        {"name":"alvic" , "link":"javascript:goToRoute('home')"}  
+                    ]
+                },
+        
+        
+                {
+                    "name":"Customer Service",
+                    "link":"customerservice"
+                },
+        
+                {
+                    "name":"Downloads",
+                    "link":"javascript:goToRoute('home')"
+                },
+        
+                {
+                    "name":"Contact",
+                    "link":"javascript:goToRoute('home')",
+                    "subcategories" :[
+                        {"name":"Contact" , "link":""},
+                        {"name":"Account Request Form" , "link":""}
+                    ]
+                }
+            ],
+    
+            "loginBtn" : {
+                "faIconClass": "fal fa-user",
+                "label": "Trade Account",
+                "iconPosition":"right"
+              
+              },
+    
+            "phoneBtn" : {
+                "faIconClass": "fal fa-phone",
+                "label": "07777 7777 7777",
+                "iconPosition":"right"
+              
+              }
+        },
+
+        "footer" : {
+            "items":[
+                { 
+                  "faIconClass" : "fa fa-phone",
+                  "label":"07777 777 777"
+                },
+                { 
+                  "faIconClass" : "fa fa-envelope ",
+                  "label":"info@infoinfo.co"
+                },
+                { 
+                  "faIconClass" : "fa fa-map-marker ",
+                  "label":"Platform 9¾ at Kings Cross Station"
+                },
+                { 
+                  "faIconClass" : "fab fa-facebook ",
+                  "label":"Facebook"
+                },
+                { 
+                  "faIconClass" : "fab fa-instagram ",
+                  "label":"Instagram"
+                }
+              ]
+        },
+
+        "main": {
+            "galery": {
+                "cards": [
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#3077AF",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"create"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#a0509f",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"fusion"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#d41d24",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"vision"
+                        },
+                
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#284383",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"gloss"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#f6961e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"slide"
+                        },
+                        {
+                            "buttontext": "Read More",
+                            "buttonbackgroundcolor":"#8baf2e",
+                            "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
+                            "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
+                            "link":"milano"
+                        }
+        
+                ]
+            }
+        }
     }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+
 }
