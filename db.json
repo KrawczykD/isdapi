@@ -12,7 +12,7 @@
         "descriptionTitle":"Welcome to Integral Surface Designs",
         "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
             "categories":[
                 {
                     "name":"Home",
@@ -24,7 +24,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -47,7 +47,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -59,8 +59,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -80,7 +80,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -125,7 +127,7 @@
                             "buttonbackgroundcolor":"#e7000e",
                             "imgsrc": "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
                             "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
@@ -182,36 +184,47 @@
             },
 
             "slider": {
-                "Color":"FFFFFF",
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"F7931E",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
-                "controlColor" : "000000",
+                "controlColor" : "FFFFFF",
                 "Images" : [
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png"},
-                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png"}
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
          
                 ]
             },
 
             "bottomBar" :{
                 "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_a7tplg.png"
+            },
+
+            "form":{
+                "title":"Contact Us",
+                "field1":{"title":"First Name" , "type":"text" ,"placeholder":""},
+                "field2":{"title":"Last Name" , "type":"text" ,"placeholder":""},
+                "field3":{"title":"Email Address" , "type":"email" ,"placeholder":""},
+                "field4":{"title":"Phone Number" , "type":"text" ,"placeholder":""},
+                "field5":{"title":"Your Message" , "type":"text" ,"placeholder":""},
+                "button":{"title":"Submit" , "type":""}
             }
         }
     },
     "create" : {
         "brand" : "create",
         "brandColor" : "088a2f",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
             "categories":[
                 {
                     "name":"Home",
@@ -223,7 +236,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -251,7 +264,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -263,8 +276,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -284,7 +297,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -317,21 +332,21 @@
                             "buttonbackgroundcolor":"#088a2f",
                             "imgsrc": "https://via.placeholder.com/500.png/088a2f/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -339,21 +354,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -363,9 +378,11 @@
     "fusion" : {
         "brand" : "fusion",
         "brandColor" : "e7000e",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png",
             "categories":[
                 {
                     "name":"Home",
@@ -377,7 +394,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -401,7 +418,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -413,8 +430,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -434,7 +451,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -467,21 +486,21 @@
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -489,21 +508,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -513,9 +532,11 @@
     "vision": {
         "brand" : "vision",
         "brandColor" : "00a1e5",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png",
             "categories":[
                 {
                     "name":"Home",
@@ -527,7 +548,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -559,7 +580,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -571,8 +592,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -592,7 +613,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -625,21 +648,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -647,21 +670,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -671,9 +694,11 @@
     "plas" : {
         "brand" : "plas",
         "brandColor" : "0dcaf0",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png",
             "categories":[
                 {
                     "name":"Home",
@@ -685,7 +710,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -703,7 +728,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -715,8 +740,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -736,7 +761,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -769,21 +796,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -791,21 +818,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -815,9 +842,11 @@
     "slide" : {
         "brand" : "slide",
         "brandColor" : "737574",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png",
             "categories":[
                 {
                     "name":"Home",
@@ -829,7 +858,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -851,7 +880,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -863,8 +892,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -884,7 +913,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -917,21 +948,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -939,21 +970,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -963,9 +994,11 @@
     "accessories" : {
         "brand" : "accessories",
         "brandColor" : "ae8c00",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png",
             "categories":[
                 {
                     "name":"Home",
@@ -977,7 +1010,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -999,7 +1032,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -1011,8 +1044,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -1032,7 +1065,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -1065,21 +1100,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -1087,21 +1122,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -1111,9 +1146,11 @@
     "milano" : {
         "brand" : "milano",
         "brandColor" : "c57b66",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png",
             "categories":[
                 {
                     "name":"Home",
@@ -1125,7 +1162,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -1147,7 +1184,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -1159,8 +1196,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -1180,7 +1217,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -1213,21 +1252,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -1235,21 +1274,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -1260,9 +1299,11 @@
     "serica" :  {
         "brand" : "serica",
         "brandColor" : "#000000",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png",
             "categories":[
                 {
                     "name":"Home",
@@ -1274,7 +1315,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -1297,7 +1338,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -1309,8 +1350,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -1330,7 +1371,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -1363,21 +1406,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -1385,21 +1428,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
@@ -1410,9 +1453,11 @@
     "alvic" : {
         "brand" : "alvic",
         "brandColor" : "001021",
+        "contrastColor" : "FFFFFF",
+        "altContrastColor" : "000000",
         "welcomeText" :"",
         "header" : {
-            "logo":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png",
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png",
             "categories":[
                 {
                     "name":"Home",
@@ -1424,7 +1469,7 @@
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
                         {"name":"About Us" , "link":"javascript:goToRoute('home')"},
-                        {"name":"Our Factory" , "link":""}
+                        {"name":"Our Factory" , "link":"javascript:goToRoute('home')"}
                     ]
                 },
         
@@ -1442,7 +1487,7 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"customerservice"
+                    "link":"javascript:goToRoute('home')"
                 },
         
                 {
@@ -1454,8 +1499,8 @@
                     "name":"Contact",
                     "link":"javascript:goToRoute('home')",
                     "subcategories" :[
-                        {"name":"Contact" , "link":""},
-                        {"name":"Account Request Form" , "link":""}
+                        {"name":"Contact" , "link":"javascript:goToRoute('home')"},
+                        {"name":"Account Request Form" , "link":"javascript:goToRoute('home')"}
                     ]
                 }
             ],
@@ -1475,7 +1520,9 @@
               }
         },
 
-        "footer" : {
+         "footer" : {
+            "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
+            "description":"Integral Surface Designs - quality and values reaching beond the visible surface.",
             "items":[
                 { 
                   "faIconClass" : "fa fa-phone",
@@ -1508,21 +1555,21 @@
                             "buttonbackgroundcolor":"#3077AF",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+CREATE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"create"
+                            "link":"javascript:goToRoute('create')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#a0509f",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+FUSION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"fusion"
+                            "link":"javascript:goToRoute('fusion')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#d41d24",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+VISION",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"vision"
+                            "link":"javascript:goToRoute('vision')"
                         },
                 
                         {
@@ -1530,21 +1577,21 @@
                             "buttonbackgroundcolor":"#284383",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+GLOSS",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"gloss"
+                            "link":"javascript:goToRoute('gloss')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#f6961e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+SLIDE",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"slide"
+                            "link":"javascript:goToRoute('slide')"
                         },
                         {
                             "buttontext": "Read More",
                             "buttonbackgroundcolor":"#8baf2e",
                             "imgsrc": "https://via.placeholder.com/500.png/${getRandomColor()}/ffffff?text=INTEGRAL+MILANO",
                             "logosrc":"https://via.placeholder.com/500x100/ffffff/000000?text=INTEGRAL LOGO",
-                            "link":"milano"
+                            "link":"javascript:goToRoute('milano')"
                         }
         
                 ]
