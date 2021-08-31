@@ -6,6 +6,8 @@
         "altContrastColor" : "000000",
         "welcomeText" :"",
         "welcomeImgSrc" :"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824819/integral-surface-designs-website/assets/images/Layer_149_zkabpd.png",
+        "welcomeBadgeImgSrc" :"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Vector_Smart_Object_ah8mhp.png",
+        "welcomeBadgeImgAlt" :"6 year guarantee image",
         "phone" :"777 777 7777 77",
         "www":"www.integralsurfacedesigns.co.uk",
         "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
@@ -203,10 +205,12 @@
             },
 
             "ContactBar" :{
-                "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_a7tplg.png"
+                "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_a7tplg.png",
+                "imgalt" : "Companies logo img"
             },
             "DownloadBar" :{
                 "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Layer_168_copy_ryqeqf.png",
+                "imgalt" : "Broschure img",
                 "top" : {"title":"Kitchen" , "subtitle":"[kitchen-en] noun" , "description":"A gathering place for family and friends to make memories and create deliciousness."},
                 "bottom" : {"title":"Download our 2021 Brochure" , "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}
             },
