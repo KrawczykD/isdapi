@@ -134,11 +134,23 @@
                 ]
             },
 
-            "ContactBar" :{
+            "contactBar" :{
                 "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_a7tplg.png",
-                "imgalt" : "Companies logo img"
+                "imgalt" : "Companies logo img",
+                "brandsLogos":[
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product9_i1gjwa.png","title":"Slide","imgAlt":"Integral Slide Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product8_uchhdb.png","title":"Milano","imgAlt":"Integral Milano Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product7_hvoznr.png","title":"Vision","imgAlt":"Integral Vision Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product6_dvi694.png","title":"Accessories","imgAlt":"Integral Accessories Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product5_fkyvwk.png","title":"Alic","imgAlt":"Integral Alvic Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product4_v3o3bc.png","title":"Plas","imgAlt":"Integral Plas Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product3_qi979r.png","title":"Serica","imgAlt":"Integral Serica Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479239/integral-surface-designs-website/logos/product2_xzk7r7.png","title":"Fusion","imgAlt":"Integral Fusion Logo image"},
+                    {"imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629479238/integral-surface-designs-website/logos/product1_mo5e0w.png","title":"Create","imgAlt":"Integral Create Logo image"}
+                    
+                ]
             },
-            "DownloadBar" :{
+            "downloadBar" :{
                 "imgsrc" : "https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Layer_168_copy_ryqeqf.png",
                 "imgalt" : "Broschure img",
                 "top" : {"title":"Kitchen" , "subtitle":"[kitchen-en] noun" , "description":"A gathering place for family and friends to make memories and create deliciousness."},
