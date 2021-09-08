@@ -1,4 +1,9 @@
 {   
+    "mainSettings":{
+        "backgroundColor":"E9E7E8",
+        "phone" :"777 777 7777 77",
+        "www":"www.integralsurfacedesigns.co.uk"
+    },
     "integral" : {
         "brand" : "integral",
         "brandColor" : "F7931E",
@@ -8,8 +13,6 @@
         "welcomeImgSrc" :"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824819/integral-surface-designs-website/assets/images/Layer_149_zkabpd.png",
         "welcomeBadgeImgSrc" :"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Vector_Smart_Object_ah8mhp.png",
         "welcomeBadgeImgAlt" :"6 year guarantee image",
-        "phone" :"777 777 7777 77",
-        "www":"www.integralsurfacedesigns.co.uk",
         "header" : {
             "logosrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629481448/integral-surface-designs-website/logos/client-logo_twyjwn.png",
             "categories":[
