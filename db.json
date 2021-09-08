@@ -286,7 +286,7 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"F7931E",
+                "Color":"088a2f",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
@@ -410,7 +410,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Fusion",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"e7000e",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
     "vision": {
@@ -528,7 +546,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Vision",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"00a1e5",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
     "plas" : {
@@ -632,7 +668,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Plas",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"0dcaf0",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
     "slide" : {
@@ -740,7 +794,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Slide",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"737574",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
     "accessories" : {
@@ -848,7 +920,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Acceessories",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"ae8c00",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
     "milano" : {
@@ -956,7 +1046,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Milano",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"c57b66",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
 
@@ -1066,7 +1174,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Serica",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"000000",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     },
 
@@ -1171,7 +1297,25 @@
         "main": {
             "descriptionImg":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
             "descriptionTitle":"Welcome to Integral Alvic",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <br><br>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. <br><br>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "slider": {
+                "title":"Popular Products from our range",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "Color":"001021",
+                "slideshowInSeconds" : 4,
+                "isControl": true,
+                "controlPosition" : "top",
+                "controlColor" : "FFFFFF",
+                "Images" : [
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
+                  {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"}
+
+         
+                ]
+            }
         }
     }
 
