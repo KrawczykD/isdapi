@@ -130,12 +130,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"F7931E",
+                "color":"F7931E",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -285,12 +285,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"088a2f",
+                "color":"088a2f",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -413,12 +413,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"e7000e",
+                "color":"e7000e",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -549,12 +549,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"00a1e5",
+                "color":"00a1e5",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -671,12 +671,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"0dcaf0",
+                "color":"0dcaf0",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -797,12 +797,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"737574",
+                "color":"737574",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -923,12 +923,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"ae8c00",
+                "color":"ae8c00",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -1049,12 +1049,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"c57b66",
+                "color":"c57b66",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -1069,7 +1069,7 @@
 
     "serica" :  {
         "brand" : "serica",
-        "brandColor" : "#000000",
+        "brandColor" : "000000",
         "contrastColor" : "FFFFFF",
         "altContrastColor" : "000000",
         "welcomeText" :"",
@@ -1177,12 +1177,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"000000",
+                "color":"000000",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
@@ -1300,12 +1300,12 @@
             "slider": {
                 "title":"Popular Products from our range",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                "Color":"001021",
+                "color":"001021",
                 "slideshowInSeconds" : 4,
                 "isControl": true,
                 "controlPosition" : "top",
                 "controlColor" : "FFFFFF",
-                "Images" : [
+                "images" : [
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
                   {"src":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1629824818/integral-surface-designs-website/assets/images/Layer_166_copy_kiwas1.png"},
