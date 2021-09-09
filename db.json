@@ -13,8 +13,8 @@
             "button":{"title":"Submit" , "type":""}
         }
     },
-    "integral" : {
-        "brand" : "integral",
+    "home" : {
+        "brand" : "home",
         "brandColor" : "F7931E",
         "contrastColor" : "FFFFFF",
         "altContrastColor" : "000000",
