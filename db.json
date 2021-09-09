@@ -1316,6 +1316,350 @@
                 ]
             }
         }
+    },
+
+    "createProducts" : {
+      "brand":"create",
+      "products":[
+        {
+          "id":0,
+          "title":"Calvados",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":1,
+          "title":"Calvados1",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":2,
+          "title":"Calvados2",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":3,
+          "title":"Calvados3",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":4,
+          "title":"Calvados4",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":5,
+          "title":"Calvados5",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+        {
+          "id":6,
+          "title":"Calvados6",
+          "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+          "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+          "imgAlt":"Calvados door image no 0",
+          "btnText":"more info",
+          "parameters":[
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?",
+            "Cum, recusandae. Sint.",
+            "Lorem, ipsum dolor.",
+            "Eius, numquam distinctio.",
+            "Necessitatibus, recusandae veniam.",
+            "Neque, fugiat adipisci?",
+            "Voluptate, saepe perferendis.",
+            "Esse, laudantium ab.",
+            "n, sequi praesentium?"
+
+          ]
+        },
+      {
+        "id":7,
+        "title":"Calvados7",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      },
+      {
+        "id":8,
+        "title":"Calvados8",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      },
+      {
+        "id":9,
+        "title":"Calvados9",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      },
+      {
+        "id":10,
+        "title":"Calvados10",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      },
+      {
+        "id":11,
+        "title":"Calvados11",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      },
+      {
+        "id":12,
+        "title":"Calvados12",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
+        "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
+        "imgAlt":"Calvados door image no 0",
+        "btnText":"more info",
+        "parameters":[
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?",
+          "Cum, recusandae. Sint.",
+          "Lorem, ipsum dolor.",
+          "Eius, numquam distinctio.",
+          "Necessitatibus, recusandae veniam.",
+          "Neque, fugiat adipisci?",
+          "Voluptate, saepe perferendis.",
+          "Esse, laudantium ab.",
+          "n, sequi praesentium?"
+
+        ]
+      }
+      ]
     }
 
 }
