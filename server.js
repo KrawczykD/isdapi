@@ -6,15 +6,7 @@ const port = process.env.PORT || 3000;
 
 
 server.use(jsonServer.rewriter({
-    "/create/products": "/createProducts",
-    "/fusion/products": "/fusionProducts",
-    "/vision/products": "/visionProducts",
-    "/plas/products": "/plasProducts",
-    "/slide/products": "/slideProducts",
-    "/accessories/products": "/accessoriesProducts",
-    "/milano/products": "/milanoProducts",
-    "/serica/products": "/sericaProducts",
-    "/alvic/products": "/alvicProducts",
+  "/:resource": "/:resource",
   }))
 
 server.use(middlewares);
