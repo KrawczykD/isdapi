@@ -593,7 +593,7 @@
                     "name":"Cut & Edge",
                     "link":"javascript:goToRoute('/')",
                     "subcategories" :[
-                        {"name":"Plas Cut & Edge Colours & Prices" , "link":"javascript:goToRoute('products' , 'plas' , 'plas-cut-Edge-colours-prices')"}
+                        {"name":"Plas Cut & Edge Colours & Prices" , "link":"javascript:goToRoute('products' , 'plas' , 'plas-cut-edge-colours-prices')"}
                         
 
                         
