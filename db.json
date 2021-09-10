@@ -1,3 +1,4 @@
+
 {   
     "mainSettings":{
         "backgroundColor":"E9E7E8",
@@ -27,51 +28,51 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Products",
-                    "link":"javascript:goToRoute('home' , '/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Integral Create" , "link":"javascript:goToRoute('brand' , 'create')"},
-                        {"name":"Integral Accessories" , "link":"javascript:goToRoute('brand' , 'accessories')"},
-                        {"name":"Integral Vision" , "link":"javascript:goToRoute('brand' , 'vision')"},
-                        {"name":"Integral Milano" , "link":"javascript:goToRoute('brand' , 'milano')"},
-                        {"name":"Integral Slide" , "link":"javascript:goToRoute('brand' , 'slide')"},
-                        {"name":"Integral Fusion" , "link":"javascript:goToRoute('brand' , 'fusion')"},
-                        {"name":"Integral Plas" , "link":"javascript:goToRoute('brand' , 'plas')"},
-                        {"name":"Integral Serica" , "link":"javascript:goToRoute('brand' , 'serica')"},
-                        {"name":"Integral Alvic" , "link":"javascript:goToRoute('brand' , 'alvic')"}
+                        {"name":"Integral Create" , "link":"/brand/create"},
+                        {"name":"Integral Accessories" , "link":"/brand/accessories"},
+                        {"name":"Integral Vision" , "link":"/brand/vision"},
+                        {"name":"Integral Milano" , "link":"/brand/milano"},
+                        {"name":"Integral Slide" , "link":"/brand/slide"},
+                        {"name":"Integral Fusion" , "link":"/brand/fusion"},
+                        {"name":"Integral Plas" , "link":"/brand/plas"},
+                        {"name":"Integral Serica" , "link":"/brand/serica"},
+                        {"name":"Integral Alvic" , "link":"/brand/alvic"}
                     ]
                 },
         
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -98,27 +99,27 @@
                 { 
                   "faIconClass" : "fa fa-phone",
                   "label":"07777 777 777",
-                  "link":"javascript:goToRoute('/')"
+                  "link":"/"
                 },
                 { 
                   "faIconClass" : "fa fa-envelope ",
                   "label":"info@infoinfo.co",
-                  "link":"javascript:goToRoute('/')"
+                  "link":"/"
                 },
                 { 
                   "faIconClass" : "fa fa-map-marker ",
                   "label":"Platform 9¾ at Kings Cross Station",
-                  "link":"javascript:goToRoute('/')"
+                  "link":"/"
                 },
                 { 
                   "faIconClass" : "fab fa-facebook ",
                   "label":"Facebook",
-                  "link":"javascript:goToRoute('/')"
+                  "link":"/"
                 },
                 { 
                   "faIconClass" : "fab fa-instagram ",
                   "label":"Instagram",
-                  "link":"javascript:goToRoute('/')"
+                  "link":"/"
                 }
               ]
         },
@@ -182,55 +183,55 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Vinyl Wrapped Range",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Colour Range" , "link":"javascript:goToRoute('products' , 'create' , 'colour-range')"},
-                        {"name":"Edge Profiles" , "link":"javascript:goToRoute('products' , 'create' , 'edge-profiles')"},
-                        {"name":"Centre Routs" , "link":"javascript:goToRoute('products' , 'create' , 'center-routs')"},
-                        {"name":"Door Design" , "link":"javascript:goToRoute('products' , 'create' , 'door-design')"},
-                        {"name":"Curved Door Collection" , "link":"javascript:goToRoute('pro(ducts' , 'create' , 'curved-door-collection')"},
-                        {"name":"Curved Door Accessories" , "link":"javascript:goToRoute('products' , 'create' , 'curved-door-accessories')"},
-                        {"name":"Curved Door Prices" , "link":"javascript:goToRoute('products' , 'create' , 'curved-door-prices')"},
-                        {"name":"Panel Prices" , "link":"javascript:goToRoute('products' , 'create' , 'panel-prices')"},
-                        {"name":"Worktop Prices" , "link":"javascript:goToRoute('products' , 'create' , 'worktop-prices')"},
-                        {"name":"Product Surcharges" , "link":"javascript:goToRoute('products' , 'create' , 'product-surcharges')"},
-                        {"name":"Manhattan Doors" , "link":"javascript:goToRoute('products' , 'create' , 'manhattan-doors')"},
-                        {"name":"Feature Doors" , "link":"javascript:goToRoute('products' , 'create' , 'feature-doors')"},
-                        {"name":"Accessories" , "link":"javascript:goToRoute('products' , 'create' , 'accessories')"}
+                        {"name":"Colour Range" , "link":"/brand/create/cat/colour-range"},
+                        {"name":"Edge Profiles" , "link":"/brand/create/cat/edge-profiles"},
+                        {"name":"Centre Routs" , "link":"/brand/create/cat/center-routs"},
+                        {"name":"Door Design" , "link":"/brand/create/cat/door-design"},
+                        {"name":"Curved Door Collection" , "link":"/brand/create/cat/curved-door-collection"},
+                        {"name":"Curved Door Accessories" , "link":"/brand/create/cat/curved-door-accessories"},
+                        {"name":"Curved Door Prices" , "link":"/brand/create/cat/curved-door-prices"},
+                        {"name":"Panel Prices" , "link":"/brand/create/cat/panel-prices"},
+                        {"name":"Worktop Prices" , "link":"/brand/create/cat/worktop-prices"},
+                        {"name":"Product Surcharges" , "link":"/brand/create/cat/product-surcharges"},
+                        {"name":"Manhattan Doors" , "link":"/brand/create/cat/manhattan-doors"},
+                        {"name":"Feature Doors" , "link":"/brand/create/cat/feature-doors"},
+                        {"name":"Accessories" , "link":"/brand/create/cat/accessories"}
                     ]
                 },
         
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -313,52 +314,52 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Contemporary Slab Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Fusion Contemporary Slab Doors" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-contemporary-slab-doors')"},
-                        {"name":"Mix & Match" , "link":"javascript:goToRoute('products' , 'fusion' , 'mix-match')"},
-                        {"name":"Fusion Door Prices" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-door-prices')"},
-                        {"name":"Fusion Panel Prices" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-panel-prices')"},
-                        {"name":"Fusion Accessory Prices" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-accessory-prices')"},
-                        {"name":"Fusion Colors" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-colors')"},
-                        {"name":"Fusion Mirror Gloss Colours" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-mirror-gloss-colours')"},
-                        {"name":"Fusion Mirror Gloss Door Prices" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-mirror-gloss-door-prices')"},
-                        {"name":"Fusion Gloss Panel Prices" , "link":"javascript:goToRoute('products' , 'fusion' , 'fusion-gloss-panel-prices')"},
-                        {"name":"Fusion Gloss Accessory Prices" ,"link":"javascript:goToRoute('products' , 'fusion' , 'fusion-gloss-accessory-prices')"}
+                        {"name":"Fusion Contemporary Slab Doors" , "link":"/brand/fusion/cat/fusion-contemporary-slab-doors"},
+                        {"name":"Mix & Match" , "link":"/brand/fusion/cat/mix-match"},
+                        {"name":"Fusion Door Prices" , "link":"/brand/fusion/cat/fusion-door-prices"},
+                        {"name":"Fusion Panel Prices" , "link":"/brand/fusion/cat/fusion-panel-prices"},
+                        {"name":"Fusion Accessory Prices" , "link":"/brand/fusion/cat/fusion-accessory-prices"},
+                        {"name":"Fusion Colors" , "link":"/brand/fusion/cat/fusion-colors"},
+                        {"name":"Fusion Mirror Gloss Colours" , "link":"/brand/fusion/cat/fusion-mirror-gloss-colours"},
+                        {"name":"Fusion Mirror Gloss Door Prices" , "link":"/brand/fusion/cat/fusion-mirror-gloss-door-prices"},
+                        {"name":"Fusion Gloss Panel Prices" , "link":"/brand/fusion/cat/fusion-gloss-panel-prices"},
+                        {"name":"Fusion Gloss Accessory Prices" ,"link":"/brand/fusion/cat/fusion-gloss-accessory-prices"}
                     ]
                 },
         
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -441,38 +442,38 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Acrylic Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Vision Acrylic Doors" , "link":"javascript:goToRoute('products' , 'vision' , 'vision-acrylic-doors')"},
-                        {"name":"Gloss" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Supermatt" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Acrylic Glass Doors" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Edging Options" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Ultra Gloss Doors" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Acrylic Mirror Board" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Acrylic Ocean Board" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Curved Acrylic Accessories" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Vision Door Prices" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Panel Prices" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Curver Acrylic Accessories" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Vision Door Prices" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Pane Prices" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Curved Acrylic Door Prices" , "link":"javascript:goToRoute('products' , 'vision' , '')"},
-                        {"name":"Accessory Prices" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Vision Acrylic Doors" , "link":"/brand/vision/cat/vision-acrylic-doors"},
+                        {"name":"Gloss" , "link":"/brand/vision/cat/gloss"},
+                        {"name":"Supermatt" , "link":"/brand/vision/cat/supermatt"},
+                        {"name":"Acrylic Glass Doors" , "link":"/brand/vision/cat/acrylic-glass-doors"},
+                        {"name":"Edging Options" , "link":"/brand/vision/cat/edging-options"},
+                        {"name":"Ultra Gloss Doors" , "link":"/brand/vision/cat/ultra-gloss-doors"},
+                        {"name":"Acrylic Mirror Board" , "link":"/brand/vision/cat/acrylic-mirror-board"},
+                        {"name":"Acrylic Ocean Board" , "link":"/brand/vision/cat/acrylic-ocean-board"},
+                        {"name":"Curved Acrylic Accessories" , "link":"/brand/vision/cat/curved-acrylic-accessories"},
+                        {"name":"Vision Door Prices" , "link":"/brand/vision/cat/vision-door-prices"},
+                        {"name":"Panel Prices" , "link":"/brand/vision/cat/panel-prices"},
+                        {"name":"Curver Acrylic Accessories" , "link":"/brand/vision/cat/curver-acrylic-accessories"},
+                        {"name":"Vision Door Prices" , "link":"/brand/vision/cat/vision-door-prices"},
+                        {"name":"Pane Prices" , "link":"/brand/vision/cat/pane-prices"},
+                        {"name":"Curved Acrylic Door Prices" , "link":"/brand/vision/cat/curved-acrylic-door-prices"},
+                        {"name":"Accessory Prices" , "link":"/brand/vision/cat/accessory-prices"}
 
                         
                     ]
@@ -481,20 +482,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -577,23 +578,23 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Cut & Edge",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Plas Cut & Edge Colours & Prices" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Plas Cut & Edge Colours & Prices" , "link":"/brand/plas/cat/plas-cut-edge-colours-prices"}
                         
 
                         
@@ -603,20 +604,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -699,27 +700,27 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Sliding Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Sliding Doors" , "link":"javascript:goToRoute('products' , 'slide' , '')"},
-                        {"name":"Frame Options" , "link":"javascript:goToRoute('products' , 'slide' , '')"},
-                        {"name":"Door Styles" , "link":"javascript:goToRoute('products' , 'slide' , '')"},
-                        {"name":"Board Options" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Sliding Door Buldier" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Sliding Doors" , "link":"/brand/slide/cat/sliding-doors"},
+                        {"name":"Frame Options" , "link":"/brand/slide/cat/frame-options"},
+                        {"name":"Door Styles" , "link":"/brand/slide/cat/door-styles"},
+                        {"name":"Board Options" , "link":"/brand/slide/cat/board-options"},
+                        {"name":"Sliding Door Buldier" , "link":"/brand/slide/cat/sliding-door-buldier"}
                         
 
                         
@@ -729,20 +730,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -825,27 +826,27 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Handles - Hinges - Drawers etc.",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Handles" , "link":"javascript:goToRoute('products' , 'accessories' , '')"},
-                        {"name":"Hinges" , "link":"javascript:goToRoute('products' , 'accessories' , '')"},
-                        {"name":"Drawers" , "link":"javascript:goToRoute('products' , 'accessories' , '')"},
-                        {"name":"Storage" , "link":"javascript:goToRoute('products' , 'accessories' , '')"},
-                        {"name":"Accessories" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Handles" , "link":"/brand/accessories/cat/handles"},
+                        {"name":"Hinges" , "link":"/brand/accessories/cat/hinges"},
+                        {"name":"Drawers" , "link":"/brand/accessories/cat/drawers"},
+                        {"name":"Storage" , "link":"/brand/accessories/cat/storage"},
+                        {"name":"Accessories" , "link":"/brand/accessories/cat/accessories"}
                         
 
                         
@@ -855,20 +856,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -951,27 +952,27 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Veneer & Stone Style Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Milano Veneer & Stone Style Doors" , "link":"javascript:goToRoute('products' , 'milano' , '')"},
-                        {"name":"Milano Doors Colours" , "link":"javascript:goToRoute('products' , 'milano' , '')"},
-                        {"name":"Milano Door Prices" , "link":"javascript:goToRoute('products' , 'milano' , '')"},
-                        {"name":"Panel Prices" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Accessory Prices" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Milano Veneer & Stone Style Doors" , "link":"/brand/milano/cat/milano-veneer-stone-style-doors"},
+                        {"name":"Milano Doors Colours" , "link":"/brand/milano/cat/milano-doors-colours"},
+                        {"name":"Milano Door Prices" , "link":"/brand/milano/cat/milano-door-prices"},
+                        {"name":"Panel Prices" , "link":"/brand/milano/cat/panel-prices"},
+                        {"name":"Accessory Prices" , "link":"/brand/milano/cat/accessory-prices"}
                         
 
                         
@@ -981,20 +982,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -1078,27 +1079,27 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Slab Supermatt Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"serica" , "link":"javascript:goToRoute('products' , 'serica' , '')"},
-                        {"name":"serica" , "link":"javascript:goToRoute('products' , 'serica' , '')"},
-                        {"name":"serica" , "link":"javascript:goToRoute('products' , 'serica' , '')"},
-                        {"name":"serica" , "link":"javascript:goToRoute('products' , 'serica' , '')"},
-                        {"name":"serica" , "link":"javascript:goToRoute('/')"}
+                        {"name":"serica" , "link":"/brand/serica/cat/serica"},
+                        {"name":"serica" , "link":"/brand/serica/cat/serica"},
+                        {"name":"serica" , "link":"/brand/serica/cat/serica"},
+                        {"name":"serica" , "link":"/brand/serica/cat/serica"},
+                        {"name":"serica" , "link":"/brand/serica/cat/serica"}
                     
                         
 
@@ -1109,20 +1110,20 @@
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -1206,46 +1207,46 @@
             "categories":[
                 {
                     "name":"Home",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"About Us",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"About Us" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Our Factory" , "link":"javascript:goToRoute('/')"}
+                        {"name":"About Us" , "link":"/"},
+                        {"name":"Our Factory" , "link":"/"}
                     ]
                 },
         
                 {
                     "name":"Abstract Doors",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"alvic" , "link":"javascript:goToRoute('products' , 'alvic' , '')"},
-                        {"name":"alvic" , "link":"javascript:goToRoute('products' , 'alvic' , '')"},
-                        {"name":"alvic" , "link":"javascript:goToRoute('products' , 'alvic' , '')"},
-                        {"name":"alvic" , "link":"javascript:goToRoute('/')"}  
+                        {"name":"alvic" , "link":"/brand/alvic/cat/alvic"},
+                        {"name":"alvic" , "link":"/brand/alvic/cat/alvic"},
+                        {"name":"alvic" , "link":"/brand/alvic/cat/alvic"},
+                        {"name":"alvic" , "link":"/brand/alvic/cat/alvic"}
                     ]
                 },
         
         
                 {
                     "name":"Customer Service",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Downloads",
-                    "link":"javascript:goToRoute('/')"
+                    "link":"/"
                 },
         
                 {
                     "name":"Contact",
-                    "link":"javascript:goToRoute('/')",
+                    "link":"/",
                     "subcategories" :[
-                        {"name":"Contact" , "link":"javascript:goToRoute('/')"},
-                        {"name":"Account Request Form" , "link":"javascript:goToRoute('/')"}
+                        {"name":"Contact" , "link":"/"},
+                        {"name":"Account Request Form" , "link":"/"}
                     ]
                 }
             ],
@@ -8265,8 +8266,8 @@
         {
           "id":0,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 0",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 0",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8293,8 +8294,8 @@
         {
           "id":1,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 1",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 1",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8321,8 +8322,8 @@
         {
           "id":2,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 2",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 2",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8349,8 +8350,8 @@
         {
           "id":3,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 3",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 3",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8377,8 +8378,8 @@
         {
           "id":4,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 4",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 4",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8405,8 +8406,8 @@
         {
           "id":5,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 5",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 5",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8433,8 +8434,8 @@
         {
           "id":6,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 6",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 6",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -8461,8 +8462,8 @@
         {
           "id":7,
           "brand":"milano",
-          "cat":"milano-veneer-&-stone-style-doors",
-          "title":"Calvados milano-veneer-&-stone-style-doors test id 7",
+          "cat":"milano-veneer-stone-style-doors",
+          "title":"Calvados milano-veneer-stone-style-doors test id 7",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12745,8 +12746,8 @@
         {
           "id":0,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 0",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 0",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12773,8 +12774,8 @@
         {
           "id":1,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 1",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 1",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12801,8 +12802,8 @@
         {
           "id":2,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 2",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 2",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12829,8 +12830,8 @@
         {
           "id":3,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 3",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 3",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12857,8 +12858,8 @@
         {
           "id":4,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 4",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 4",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12885,8 +12886,8 @@
         {
           "id":5,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 5",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 5",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12913,8 +12914,8 @@
         {
           "id":6,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 6",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 6",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
@@ -12941,8 +12942,8 @@
         {
           "id":7,
           "brand":"plas",
-          "cat":"plas-cut-&-edge-colours-prices",
-          "title":"Calvados plas-cut-&-edge-colours-prices test id 7",
+          "cat":"plas-cut-edge-colours-prices",
+          "title":"Calvados plas-cut-edge-colours-prices test id 7",
           "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit harum id esse sunt placeat assumenda similique ad deserunt expedita saepe voluptatum maxime vero architecto repudiandae et nisi non ipsa possimus eaque, dolorum ut sed perspiciatis? Voluptas nobis ratione quas quasi? Eveniet illum amet doloremque eaque saepe optio iure?",
           "imgSrc":"https://res.cloudinary.com/integral-surface-designs/image/upload/v1630408408/integral-surface-designs-website/assets/images/Group_150_vtpwza.png",
           "imgAlt":"Calvados door image no 0",
