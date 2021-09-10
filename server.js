@@ -6,8 +6,9 @@ const port = process.env.PORT || 3000;
 
 
 server.use(jsonServer.rewriter({
-    "/:brand": "/:brand",
-    "/:brand/:cat": "/:brand+Products",
+    "/": "/home",
+    "/brand/:brand": "/:brand",
+    "/brand/:brand/cat/:cat": "/products?brand=:brand&cat=:cat",
    
   }))
 
