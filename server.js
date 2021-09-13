@@ -9,6 +9,7 @@ server.use(jsonServer.rewriter({
     "/": "/home",
     "/brand/:brand": "/:brand",
     "/brand/:brand/cat/:cat": "/products?brand=:brand&cat=:cat",
+    "/brand/:brand/cat/:cat/productid/:id": "/products?brand=:brand&cat=:cat&id=:id",
    
   }))
 
