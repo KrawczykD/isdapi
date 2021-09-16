@@ -4,7 +4,8 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "node createDbFile.js && node server.js"
+    "start": "node createDbFile.js && node server.js",
+    "startPm2": "node createDbFile.js && pm2 start server.js --watch"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
