@@ -1,6 +1,6 @@
 let mapurls = [];
 var fs = require('fs');
-let db = require('./dbINPUT.json')
+let db = require('./dbINPUT-postcoder.json')
 
 
   for (let [key, value] of Object.entries(db)) {
