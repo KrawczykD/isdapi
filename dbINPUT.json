@@ -1,5 +1,5 @@
 {
-  "urls":[],
+  "urls": [],
   "mainSettings": {
     "backgroundColor": "E9E7E8",
     "phone": "777 777 7777 77",
@@ -46563,6 +46563,346 @@
           ]
         }
       ]
+    }
+  ],
+  "postcoder": [
+    {
+      "Success": true,
+      "Message": "single",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Department of Communications, Climate Action and Environment, 29-31 Adelaide Road, Dublin 2, D02 X285",
+            "addressline1": "Department of Communications, Climate Action and Environment",
+            "addressline2": "29-31 Adelaide Road",
+            "organisation": "Department of Communications, Climate Action and Environment",
+            "number": "29-31",
+            "street": "Adelaide Road",
+            "county": "Co. Dublin",
+            "postcode": "D02 X285",
+            "posttown": "Dublin 2",
+            "latitude": 53.3320656
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "multiple",
+      "Data": {
+        "count": 20,
+        "list": [
+          {
+            "summaryline": "Fingal Dublin Chamber, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "addressline1": "Fingal Dublin Chamber",
+            "addressline2": "Three, the Green",
+            "addressline3": "Dublin Airport Central",
+            "addressline4": "Corballis Road South, Dublin Airport",
+            "organisation": "Fingal Dublin Chamber",
+            "buildingname": "Three, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "posttown": "Swords",
+            "latitude": 53.4276161
+          },
+          {
+            "summaryline": "Maldron Hotel Dublin Airpoprt, Maldron Hotel Dublin Airport, Corballis Avenue, Dublin Airport, Swords, Co. Dublin, K67 T6P6",
+            "addressline1": "Maldron Hotel Dublin Airpoprt",
+            "addressline2": "Maldron Hotel Dublin Airport",
+            "addressline3": "Corballis Avenue",
+            "addressline4": "Dublin Airport",
+            "organisation": "Maldron Hotel Dublin Airpoprt",
+            "buildingname": "Maldron Hotel Dublin Airport",
+            "street": "Corballis Avenue",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 T6P6",
+            "posttown": "Swords",
+            "latitude": 53.4277344
+          },
+          {
+            "summaryline": "Dublin Women's Clinic, Slievemore Clinic, Old Dublin Road, Stillorgan, Blackrock, Co. Dublin, A94 CH66",
+            "addressline1": "Dublin Women's Clinic",
+            "addressline2": "Slievemore Clinic",
+            "addressline3": "Old Dublin Road",
+            "addressline4": "Stillorgan",
+            "organisation": "Dublin Women's Clinic",
+            "buildingname": "Slievemore Clinic",
+            "street": "Old Dublin Road",
+            "dependentlocality": "Stillorgan",
+            "county": "Co. Dublin",
+            "postcode": "A94 CH66",
+            "posttown": "Blackrock",
+            "latitude": 53.29249
+          },
+          {
+            "summaryline": "Fitzmedical Supplies Ltd., Dublin Business Centre, Blackwater Road, Dublin Industrial Estate, Dublin 11, D11 X2EF",
+            "addressline1": "Fitzmedical Supplies Ltd.",
+            "addressline2": "Dublin Business Centre",
+            "addressline3": "Blackwater Road",
+            "addressline4": "Dublin Industrial Estate",
+            "organisation": "Fitzmedical Supplies Ltd.",
+            "buildingname": "Dublin Business Centre",
+            "street": "Blackwater Road",
+            "dependentlocality": "Dublin Industrial Estate",
+            "county": "Co. Dublin",
+            "postcode": "D11 X2EF",
+            "posttown": "Dublin 11",
+            "latitude": 53.37351
+          },
+          {
+            "summaryline": "The University of Dublin Trinity College Dublin, 3 College Green, Dublin 2, D02 XH97",
+            "addressline1": "The University of Dublin Trinity College Dublin",
+            "addressline2": "3 College Green",
+            "organisation": "The University of Dublin Trinity College Dublin",
+            "number": "3",
+            "street": "College Green",
+            "county": "Co. Dublin",
+            "postcode": "D02 XH97",
+            "posttown": "Dublin 2",
+            "latitude": 53.34444
+          },
+          {
+            "summaryline": "Dublin Airport Central Head Office, Corballis Road South, Dublin Airport, Swords, Co. Dublin, K67 Y7E5",
+            "addressline1": "Dublin Airport Central Head Office",
+            "addressline2": "Corballis Road South",
+            "addressline3": "Dublin Airport",
+            "organisation": "Dublin Airport Central Head Office",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 Y7E5",
+            "posttown": "Swords",
+            "latitude": 53.4288445
+          },
+          {
+            "summaryline": "Dublin Circus Project, Dublin Circus Centre, 76 Bannow Road, Dublin 7, D07 FR84",
+            "addressline1": "Dublin Circus Project",
+            "addressline2": "76 Dublin Circus Centre",
+            "addressline3": "Bannow Road",
+            "addressline4": "Cabra",
+            "organisation": "Dublin Circus Project",
+            "buildingname": "Dublin Circus Centre",
+            "number": "76",
+            "street": "Bannow Road",
+            "dependentlocality": "Cabra",
+            "county": "Co. Dublin",
+            "postcode": "D07 FR84",
+            "posttown": "Dublin 7",
+            "latitude": 53.37137
+          },
+          {
+            "summaryline": "Dublin Landings Carpark and Estate, 2 Dublin Landings, North Wall Quay, Dublin 1, D01 V4A3",
+            "addressline1": "Dublin Landings Carpark and Estate",
+            "addressline2": "2 Dublin Landings",
+            "addressline3": "North Wall Quay",
+            "addressline4": "North Wall",
+            "organisation": "Dublin Landings Carpark and Estate",
+            "number": "2",
+            "street": "North Wall Quay",
+            "dependentlocality": "North Wall",
+            "county": "Co. Dublin",
+            "postcode": "D01 V4A3",
+            "posttown": "Dublin 1",
+            "latitude": 53.34765
+          },
+          {
+            "summaryline": "Dublin Graving Docks, Alexandra Road, Dublin Port, Dublin 1, D01 VR70",
+            "addressline1": "Dublin Graving Docks",
+            "addressline2": "Alexandra Road",
+            "addressline3": "Dublin Port",
+            "organisation": "Dublin Graving Docks",
+            "street": "Alexandra Road",
+            "dependentlocality": "Dublin Port",
+            "county": "Co. Dublin",
+            "postcode": "D01 VR70",
+            "posttown": "Dublin 1",
+            "latitude": 53.35005
+          },
+          {
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South",
+            "addressline4": "Dublin Airport",
+            "buildingname": "Two, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "posttown": "Swords",
+            "latitude": 53.4274521
+          },
+          {
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South",
+            "addressline4": "Dublin Airport",
+            "buildingname": "Two, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "posttown": "Swords",
+            "latitude": 53.4274521
+          },
+          {
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South",
+            "addressline4": "Dublin Airport",
+            "buildingname": "Two, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "posttown": "Swords",
+            "latitude": 53.4274521
+          },
+          {
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South",
+            "addressline4": "Dublin Airport",
+            "buildingname": "Two, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "posttown": "Swords",
+            "latitude": 53.4274521
+          },
+          {
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South",
+            "addressline4": "Dublin Airport",
+            "buildingname": "Two, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "posttown": "Swords",
+            "latitude": 53.4274521
+          },
+          {
+            "summaryline": "Kellog Company of Ireland, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "addressline1": "Kellog Company of Ireland",
+            "addressline2": "Three, the Green",
+            "addressline3": "Dublin Airport Central",
+            "addressline4": "Corballis Road South, Dublin Airport",
+            "organisation": "Kellog Company of Ireland",
+            "buildingname": "Three, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "posttown": "Swords",
+            "latitude": 53.4276161
+          },
+          {
+            "summaryline": "Cushman & Wakefield, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "addressline1": "Cushman & Wakefield",
+            "addressline2": "Three, the Green",
+            "addressline3": "Dublin Airport Central",
+            "addressline4": "Corballis Road South, Dublin Airport",
+            "organisation": "Cushman & Wakefield",
+            "buildingname": "Three, the Green",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "posttown": "Swords",
+            "latitude": 53.4276161
+          },
+          {
+            "summaryline": "Top Oil Dublin Terminal, Top House, Promenade Road, Dublin Port, Dublin 3, D03 A5Y4",
+            "addressline1": "Top Oil Dublin Terminal",
+            "addressline2": "Top House",
+            "addressline3": "Promenade Road",
+            "addressline4": "Dublin Port",
+            "organisation": "Top Oil Dublin Terminal",
+            "buildingname": "Top House",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "county": "Co. Dublin",
+            "postcode": "D03 A5Y4",
+            "posttown": "Dublin 3",
+            "latitude": 53.3531456
+          },
+          {
+            "summaryline": "The Gateway Restaurant, Dublin Port Company Service Station, Promenade Road, Dublin Port, Dublin 3, D03 W0Y8",
+            "addressline1": "The Gateway Restaurant",
+            "addressline2": "Dublin Port Company Service Station",
+            "addressline3": "Promenade Road",
+            "addressline4": "Dublin Port",
+            "organisation": "The Gateway Restaurant",
+            "buildingname": "Dublin Port Company Service Station",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "county": "Co. Dublin",
+            "postcode": "D03 W0Y8",
+            "posttown": "Dublin 3",
+            "latitude": 53.3541145
+          },
+          {
+            "summaryline": "Circle K, Dublin Port Company Service Station, Promenade Road, Dublin Port, Dublin 3, D03 W0Y8",
+            "addressline1": "Circle K",
+            "addressline2": "Dublin Port Company Service Station",
+            "addressline3": "Promenade Road",
+            "addressline4": "Dublin Port",
+            "organisation": "Circle K",
+            "buildingname": "Dublin Port Company Service Station",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "county": "Co. Dublin",
+            "postcode": "D03 W0Y8",
+            "posttown": "Dublin 3",
+            "latitude": 53.3541145
+          },
+          {
+            "summaryline": "Dublin Port Operations, Port Operations Centre, Breakwater Road South, Dublin Port, Dublin 1, D01 Y9C2",
+            "addressline1": "Dublin Port Operations",
+            "addressline2": "Port Operations Centre",
+            "addressline3": "Breakwater Road South",
+            "addressline4": "Dublin Port",
+            "organisation": "Dublin Port Operations",
+            "buildingname": "Port Operations Centre",
+            "street": "Breakwater Road South",
+            "dependentlocality": "Dublin Port",
+            "county": "Co. Dublin",
+            "postcode": "D01 Y9C2",
+            "posttown": "Dublin 1",
+            "morevalues": true,
+            "nextpage": 1,
+            "totalresults": 620446,
+            "latitude": 53.34489
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "empty",
+      "Data": {
+        "count": 0,
+        "list": []
+      }
+    },
+    {
+      "Success": false,
+      "Message": "fail",
+      "Data": {
+        "count": 0,
+        "list": []
+      }
     }
   ]
 }
