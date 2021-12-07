@@ -1184,16 +1184,45 @@
       "Success": false,
       "Message": "N91 H970",
       "Data": {
-        "count": 0,
-        "list": []
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Abc Bouncy Castles, 70 Ardleigh Park, Mullingar, Co. Westmeath, N91 H970",
+            "addressline1": "Abc Bouncy Castles",
+            "addressline2": "70 Ardleigh Park",
+            "organisation": "Abc Bouncy Castles",
+            "number": "70",
+            "street": "Ardleigh Park",
+            "county": "Co. Westmeath",
+            "postcode": "N91 H970",
+            "posttown": "Mullingar",
+            "longitude": -7.36717,
+            "latitude": 53.5228233
+          }
+        ]
       }
     },
     {
-      "Success": false,
+      "Success": true,
       "Message": "R32 E721",
       "Data": {
-        "count": 0,
-        "list": []
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Ejp Concrete Structures Limited, Derrylusk, Mountrath, Portlaoise, Co. Laois, R32 E721",
+            "addressline1": "Ejp Concrete Structures Limited",
+            "addressline2": "Derrylusk",
+            "addressline3": "Mountrath",
+            "organisation": "Ejp Concrete Structures Limited",
+            "doubledependentlocality": "Derrylusk",
+            "dependentlocality": "Mountrath",
+            "county": "Co. Laois",
+            "postcode": "R32 E721",
+            "posttown": "Portlaoise",
+            "longitude": -7.467844,
+            "latitude": 53.0160332
+          }
+        ]
       }
     },
     {
