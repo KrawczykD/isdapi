@@ -10,7 +10,7 @@
       "/brand/:brand": "/:brand",
       "/brand/:brand/cat/:cat": "/products?brand=:brand&cat=:cat",
       "/brand/:brand/cat/:cat/productid/:id": "/products?brand=:brand&cat=:cat&id=:id",
-      "/postcoder/:option":"/postcoder?Message=:option",
+      "/postcoder/:option":"/postcoder?Message_like=:option",
     }))
 
   server.use(middlewares);
