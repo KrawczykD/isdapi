@@ -1195,6 +1195,28 @@
         "count": 0,
         "list": []
       }
+    },
+    {
+      "Success": true,
+      "Message": "D02 X285",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Department of Communications, Climate Action and Environment, 29-31 Adelaide Road, Dublin 2, D02 X285",
+            "addressline1": "Department of Communications, Climate Action and Environment",
+            "addressline2": "29-31 Adelaide Road",
+            "organisation": "Department of Communications, Climate Action and Environment",
+            "number": "29-31",
+            "street": "Adelaide Road",
+            "county": "Co. Dublin",
+            "postcode": "D02 X285",
+            "posttown": "Dublin 2",
+            "longitude": -6.255492,
+            "latitude": 53.3320656
+          }
+        ]
+      }
     }
    ]
   }
