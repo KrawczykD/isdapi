@@ -1372,6 +1372,417 @@
           }
         ]
       }
+    },
+
+    {
+      "Success": true,
+      "Message": "quee",
+      "Data": {
+        "count": 4,
+        "list": [
+          {
+              "id": "UK@STATE|West Yorkshire@CTY|{Queensbury@LOC,Bradford@PTN,BD@PCDA,BD13@PCDD}@LOC",
+              "type": "LOC",
+              "summaryline": "Queensbury, BD13",
+              "locationsummary": "Bradford, West Yorkshire",
+              "count": 6242
+          },
+          {
+              "id": "UK@STATE|{City of Edinburgh@CTY,EH@PCDA}@CTY|{South Queensferry@LOC,EH30@PCDD,EH30-9@PCDS}@LOC",
+              "type": "LOC",
+              "summaryline": "South Queensferry, EH30 9",
+              "locationsummary": "City of Edinburgh",
+              "count": 4909
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY|London@LOC|{Wandsworth@LAD,SW@PCDA}@LAD|Queenstown Road@STR",
+              "type": "STR",
+              "summaryline": "Queenstown Road",
+              "locationsummary": "London, Wandsworth, SW",
+              "count": 2713
+          },
+          {
+              "id": "UK@STATE|West Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "West Yorkshire",
+              "locationsummary": "",
+              "count": 12779
+          },
+          {
+              "id": "UK@STATE|{City of Edinburgh@CTY,EH@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "City of Edinburgh",
+              "locationsummary": "",
+              "count": 6457
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY",
+              "type": "CTY",
+              "summaryline": "Greater London",
+              "locationsummary": "",
+              "count": 27353
+          },
+          {
+              "id": "UK@STATE|Kent@CTY",
+              "type": "CTY",
+              "summaryline": "Kent",
+              "locationsummary": "",
+              "count": 8774
+          },
+          {
+              "id": "UK@STATE|West Midlands@CTY",
+              "type": "CTY",
+              "summaryline": "West Midlands",
+              "locationsummary": "",
+              "count": 6916
+          },
+          {
+              "id": "UK@STATE|Lancashire@CTY",
+              "type": "CTY",
+              "summaryline": "Lancashire",
+              "locationsummary": "",
+              "count": 6589
+          },
+          {
+              "id": "UK@STATE|Surrey@CTY",
+              "type": "CTY",
+              "summaryline": "Surrey",
+              "locationsummary": "",
+              "count": 5847
+          },
+          {
+              "id": "UK@STATE|Hampshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hampshire",
+              "locationsummary": "",
+              "count": 5346
+          },
+          {
+              "id": "UK@STATE|Essex@CTY",
+              "type": "CTY",
+              "summaryline": "Essex",
+              "locationsummary": "",
+              "count": 5131
+          },
+          {
+              "id": "UK@STATE|South Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "South Yorkshire",
+              "locationsummary": "",
+              "count": 4136
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY",
+              "type": "CTY",
+              "summaryline": "Merseyside",
+              "locationsummary": "",
+              "count": 4062
+          },
+          {
+              "id": "UK@STATE|Lincolnshire@CTY",
+              "type": "CTY",
+              "summaryline": "Lincolnshire",
+              "locationsummary": "",
+              "count": 3952
+          },
+          {
+              "id": "UK@STATE|Cheshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cheshire",
+              "locationsummary": "",
+              "count": 3449
+          },
+          {
+              "id": "UK@STATE|Devon@CTY",
+              "type": "CTY",
+              "summaryline": "Devon",
+              "locationsummary": "",
+              "count": 3327
+          },
+          {
+              "id": "UK@STATE|East Sussex@CTY",
+              "type": "CTY",
+              "summaryline": "East Sussex",
+              "locationsummary": "",
+              "count": 3098
+          },
+          {
+              "id": "UK@STATE|North Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "North Yorkshire",
+              "locationsummary": "",
+              "count": 2860
+          },
+          {
+              "id": "UK@STATE|Nottinghamshire@CTY",
+              "type": "CTY",
+              "summaryline": "Nottinghamshire",
+              "locationsummary": "",
+              "count": 2896
+          },
+          {
+              "id": "UK@STATE|Tyne and Wear@CTY",
+              "type": "CTY",
+              "summaryline": "Tyne and Wear",
+              "locationsummary": "",
+              "count": 2800
+          },
+          {
+              "id": "UK@STATE|Hertfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hertfordshire",
+              "locationsummary": "",
+              "count": 2727
+          },
+          {
+              "id": "UK@STATE|Cambridgeshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cambridgeshire",
+              "locationsummary": "",
+              "count": 2534
+          },
+          {
+              "id": "UK@STATE|{City of Glasgow@CTY,G@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "City of Glasgow",
+              "locationsummary": "",
+              "count": 2514
+          },
+          {
+              "id": "UK@STATE|Somerset@CTY",
+              "type": "CTY",
+              "summaryline": "Somerset",
+              "locationsummary": "",
+              "count": 2508
+          },
+          {
+              "id": "UK@STATE|Derbyshire@CTY",
+              "type": "CTY",
+              "summaryline": "Derbyshire",
+              "locationsummary": "",
+              "count": 2465
+          }
+      ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "manor",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+              "id": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR",
+              "type": "STR",
+              "summaryline": "Manor Road, BH1 3",
+              "locationsummary": "Bournemouth, Dorset",
+              "count": 1121
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC",
+              "type": "LOC",
+              "summaryline": "Sutton Manor, WA9 4",
+              "locationsummary": "St. Helens, Merseyside",
+              "count": 1281
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY",
+              "type": "CTY",
+              "summaryline": "Greater London",
+              "locationsummary": "",
+              "count": 14807
+          },
+          {
+              "id": "UK@STATE|Surrey@CTY",
+              "type": "CTY",
+              "summaryline": "Surrey",
+              "locationsummary": "",
+              "count": 8868
+          },
+          {
+              "id": "UK@STATE|Kent@CTY",
+              "type": "CTY",
+              "summaryline": "Kent",
+              "locationsummary": "",
+              "count": 7549
+          },
+          {
+              "id": "UK@STATE|West Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "West Yorkshire",
+              "locationsummary": "",
+              "count": 7287
+          },
+          {
+              "id": "UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Antrim",
+              "locationsummary": "",
+              "count": 5829
+          },
+          {
+              "id": "UK@STATE|Hampshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hampshire",
+              "locationsummary": "",
+              "count": 4940
+          },
+          {
+              "id": "UK@STATE|North Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "North Yorkshire",
+              "locationsummary": "",
+              "count": 4513
+          },
+          {
+              "id": "UK@STATE|South Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "South Yorkshire",
+              "locationsummary": "",
+              "count": 4455
+          },
+          {
+              "id": "UK@STATE|West Midlands@CTY",
+              "type": "CTY",
+              "summaryline": "West Midlands",
+              "locationsummary": "",
+              "count": 4404
+          },
+          {
+              "id": "UK@STATE|Devon@CTY",
+              "type": "CTY",
+              "summaryline": "Devon",
+              "locationsummary": "",
+              "count": 3983
+          },
+          {
+              "id": "UK@STATE|Dorset@CTY",
+              "type": "CTY",
+              "summaryline": "Dorset",
+              "locationsummary": "",
+              "count": 3884
+          },
+          {
+              "id": "UK@STATE|Lancashire@CTY",
+              "type": "CTY",
+              "summaryline": "Lancashire",
+              "locationsummary": "",
+              "count": 3898
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY",
+              "type": "CTY",
+              "summaryline": "Merseyside",
+              "locationsummary": "",
+              "count": 3885
+          },
+          {
+              "id": "UK@STATE|Somerset@CTY",
+              "type": "CTY",
+              "summaryline": "Somerset",
+              "locationsummary": "",
+              "count": 3881
+          },
+          {
+              "id": "UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Armagh",
+              "locationsummary": "",
+              "count": 3706
+          },
+          {
+              "id": "UK@STATE|West Sussex@CTY",
+              "type": "CTY",
+              "summaryline": "West Sussex",
+              "locationsummary": "",
+              "count": 3686
+          },
+          {
+              "id": "UK@STATE|Lincolnshire@CTY",
+              "type": "CTY",
+              "summaryline": "Lincolnshire",
+              "locationsummary": "",
+              "count": 3477
+          },
+          {
+              "id": "UK@STATE|Cheshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cheshire",
+              "locationsummary": "",
+              "count": 3378
+          },
+          {
+              "id": "UK@STATE|Essex@CTY",
+              "type": "CTY",
+              "summaryline": "Essex",
+              "locationsummary": "",
+              "count": 3318
+          },
+          {
+              "id": "UK@STATE|{County Down@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Down",
+              "locationsummary": "",
+              "count": 3131
+          },
+          {
+              "id": "UK@STATE|Oxfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Oxfordshire",
+              "locationsummary": "",
+              "count": 3188
+          },
+          {
+              "id": "UK@STATE|Wiltshire@CTY",
+              "type": "CTY",
+              "summaryline": "Wiltshire",
+              "locationsummary": "",
+              "count": 3032
+          },
+          {
+              "id": "UK@STATE|Hertfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hertfordshire",
+              "locationsummary": "",
+              "count": 2910
+          },
+          {
+              "id": "UK@STATE|Norfolk@CTY",
+              "type": "CTY",
+              "summaryline": "Norfolk",
+              "locationsummary": "",
+              "count": 2717
+          },
+          {
+              "id": "UK@STATE|Northamptonshire@CTY",
+              "type": "CTY",
+              "summaryline": "Northamptonshire",
+              "locationsummary": "",
+              "count": 2727
+          },
+          {
+              "id": "UK@STATE|Derbyshire@CTY",
+              "type": "CTY",
+              "summaryline": "Derbyshire",
+              "locationsummary": "",
+              "count": 2427
+          },
+          {
+              "id": "UK@STATE|Nottinghamshire@CTY",
+              "type": "CTY",
+              "summaryline": "Nottinghamshire",
+              "locationsummary": "",
+              "count": 2406
+          },
+          {
+              "id": "UK@STATE|Leicestershire@CTY",
+              "type": "CTY",
+              "summaryline": "Leicestershire",
+              "locationsummary": "",
+              "count": 2379
+          }
+      ]
+      }
     }
    ]
   }
