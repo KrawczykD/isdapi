@@ -2070,6 +2070,15 @@
          "longitude": "-2.00"
        }
      
+   },
+   "coordinatesFalse": 
+  {
+   "Success": false,
+   "Message": "no coordinates found",
+   "Data": {
+     
+       }
+     
    }
  }
   
