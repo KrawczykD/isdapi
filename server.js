@@ -13,6 +13,7 @@
 
       "/postcoderhints/:option":"/postcoderhints?Message_like=:option",
       "/postcoderfull/:option":"/postcoderfull?Message_like=:option",
+      "/coordinates":"/coordinates",
     }))
 
   server.use(middlewares);

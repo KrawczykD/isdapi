@@ -2059,6 +2059,17 @@
         }
       ]
     }
-  }
+  },
+
+  "coordinates": 
+  {
+   "Success": true,
+   "Message": "coordinates",
+   "Data": {
+         "latitude": "53.427618",
+         "longitude": "-6.238154"
+       }
+     
+   }
+ }
   
-  }
