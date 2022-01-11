@@ -46564,5 +46564,2096 @@
         }
       ]
     }
-  ]
+  ],
+
+
+
+
+
+
+
+
+
+  
+  "postcoder": [
+    {
+      "Success": true,
+      "Message": "single",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "addressline1": "Three, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Fingal Dublin Chamber, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "organisation": "Fingal Dublin Chamber",
+            "buildingname": "Three, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Three, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "latitude": "53.427618",
+            "longitude": "-6.238154"
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "multiple",
+      "Data": {
+        "count": 20,
+        "list": [
+          {
+            "addressline1": "Three, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Fingal Dublin Chamber, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "organisation": "Fingal Dublin Chamber",
+            "buildingname": "Three, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Three, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "latitude": "53.427618",
+            "longitude": "-6.238154"
+          },
+          {
+            "addressline1": "Maldron Hotel Dublin Airport",
+            "addressline2": "Corballis Avenue",
+            "addressline3": "Dublin Airport",
+            "summaryline": "Maldron Hotel Dublin Airpoprt, Maldron Hotel Dublin Airport, Corballis Avenue, Dublin Airport, Swords, Co. Dublin, K67 T6P6",
+            "organisation": "Maldron Hotel Dublin Airpoprt",
+            "buildingname": "Maldron Hotel Dublin Airport",
+            "premise": "Maldron Hotel Dublin Airport",
+            "street": "Corballis Avenue",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 T6P6",
+            "latitude": "53.427736",
+            "longitude": "-6.233945"
+          },
+          {
+            "addressline1": "Slievemore Clinic",
+            "addressline2": "Old Dublin Road",
+            "addressline3": "Stillorgan",
+            "summaryline": "Dublin Women's Clinic, Slievemore Clinic, Old Dublin Road, Stillorgan, Blackrock, Co. Dublin, A94 CH66",
+            "organisation": "Dublin Women's Clinic",
+            "buildingname": "Slievemore Clinic",
+            "premise": "Slievemore Clinic",
+            "street": "Old Dublin Road",
+            "dependentlocality": "Stillorgan",
+            "posttown": "Blackrock",
+            "county": "Co. Dublin",
+            "postcode": "A94 CH66",
+            "latitude": "53.292488",
+            "longitude": "-6.201001"
+          },
+          {
+            "addressline1": "Dublin Business Centre",
+            "addressline2": "Blackwater Road",
+            "addressline3": "Dublin Industrial Estate",
+            "summaryline": "Fitzmedical Supplies Ltd., Dublin Business Centre, Blackwater Road, Dublin Industrial Estate, Dublin 11, D11 X2EF",
+            "organisation": "Fitzmedical Supplies Ltd.",
+            "buildingname": "Dublin Business Centre",
+            "premise": "Dublin Business Centre",
+            "street": "Blackwater Road",
+            "dependentlocality": "Dublin Industrial Estate",
+            "posttown": "Dublin 11",
+            "county": "Co. Dublin",
+            "postcode": "D11 X2EF",
+            "latitude": "53.373508",
+            "longitude": "-6.291025"
+          },
+          {
+            "addressline1": "3 College Green",
+            "summaryline": "The University of Dublin Trinity College Dublin, 3 College Green, Dublin 2, D02 XH97",
+            "organisation": "The University of Dublin Trinity College Dublin",
+            "number": "3",
+            "premise": "3",
+            "street": "College Green",
+            "posttown": "Dublin 2",
+            "county": "Co. Dublin",
+            "postcode": "D02 XH97",
+            "latitude": "53.344441",
+            "longitude": "-6.261461"
+          },
+          {
+            "addressline1": "Corballis Road South",
+            "addressline2": "Dublin Airport",
+            "summaryline": "Dublin Airport Central Head Office, Corballis Road South, Dublin Airport, Swords, Co. Dublin, K67 Y7E5",
+            "organisation": "Dublin Airport Central Head Office",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 Y7E5",
+            "latitude": "53.428843",
+            "longitude": "-6.238131"
+          },
+          {
+            "addressline1": "76 Dublin Circus Centre",
+            "addressline2": "Bannow Road",
+            "addressline3": "Cabra",
+            "summaryline": "Dublin Circus Project, Dublin Circus Centre, 76 Bannow Road, Dublin 7, D07 FR84",
+            "organisation": "Dublin Circus Project",
+            "buildingname": "Dublin Circus Centre",
+            "number": "76",
+            "premise": "Dublin Circus Centre, 76",
+            "street": "Bannow Road",
+            "dependentlocality": "Cabra",
+            "posttown": "Dublin 7",
+            "county": "Co. Dublin",
+            "postcode": "D07 FR84",
+            "latitude": "53.371368",
+            "longitude": "-6.29676"
+          },
+          {
+            "addressline1": "2 Dublin Landings",
+            "addressline2": "North Wall Quay",
+            "addressline3": "North Wall",
+            "summaryline": "Dublin Landings Carpark and Estate, 2 Dublin Landings, North Wall Quay, Dublin 1, D01 V4A3",
+            "organisation": "Dublin Landings Carpark and Estate",
+            "buildinggroupname": "Dublin Landings",
+            "number": "2",
+            "premise": "2, Dublin Landings",
+            "street": "North Wall Quay",
+            "dependentlocality": "North Wall",
+            "posttown": "Dublin 1",
+            "county": "Co. Dublin",
+            "postcode": "D01 V4A3",
+            "latitude": "53.34765",
+            "longitude": "-6.233919"
+          },
+          {
+            "addressline1": "Alexandra Road",
+            "addressline2": "Dublin Port",
+            "summaryline": "Dublin Graving Docks, Alexandra Road, Dublin Port, Dublin 1, D01 VR70",
+            "organisation": "Dublin Graving Docks",
+            "street": "Alexandra Road",
+            "dependentlocality": "Dublin Port",
+            "posttown": "Dublin 1",
+            "county": "Co. Dublin",
+            "postcode": "D01 VR70",
+            "latitude": "53.35005",
+            "longitude": "-6.221159"
+          },
+          {
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "buildingname": "Two, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Two, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "latitude": "53.427451",
+            "longitude": "-6.237345"
+          },
+          {
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "buildingname": "Two, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Two, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "latitude": "53.427451",
+            "longitude": "-6.237345"
+          },
+          {
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "buildingname": "Two, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Two, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "latitude": "53.427451",
+            "longitude": "-6.237345"
+          },
+          {
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "buildingname": "Two, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Two, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "latitude": "53.427451",
+            "longitude": "-6.237345"
+          },
+          {
+            "addressline1": "Two, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Two, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 E2H3",
+            "buildingname": "Two, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Two, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 E2H3",
+            "latitude": "53.427451",
+            "longitude": "-6.237345"
+          },
+          {
+            "addressline1": "Three, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Kellog Company of Ireland, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "organisation": "Kellog Company of Ireland",
+            "buildingname": "Three, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Three, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "latitude": "53.427618",
+            "longitude": "-6.238154"
+          },
+          {
+            "addressline1": "Three, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Cushman & Wakefield, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "organisation": "Cushman & Wakefield",
+            "buildingname": "Three, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Three, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "latitude": "53.427618",
+            "longitude": "-6.238154"
+          },
+          {
+            "addressline1": "Top House",
+            "addressline2": "Promenade Road",
+            "addressline3": "Dublin Port",
+            "summaryline": "Top Oil Dublin Terminal, Top House, Promenade Road, Dublin Port, Dublin 3, D03 A5Y4",
+            "organisation": "Top Oil Dublin Terminal",
+            "buildingname": "Top House",
+            "premise": "Top House",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "posttown": "Dublin 3",
+            "county": "Co. Dublin",
+            "postcode": "D03 A5Y4",
+            "latitude": "53.353144",
+            "longitude": "-6.207926"
+          },
+          {
+            "addressline1": "Dublin Port Company Service Station",
+            "addressline2": "Promenade Road",
+            "addressline3": "Dublin Port",
+            "summaryline": "The Gateway Restaurant, Dublin Port Company Service Station, Promenade Road, Dublin Port, Dublin 3, D03 W0Y8",
+            "organisation": "The Gateway Restaurant",
+            "buildingname": "Dublin Port Company Service Station",
+            "premise": "Dublin Port Company Service Station",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "posttown": "Dublin 3",
+            "county": "Co. Dublin",
+            "postcode": "D03 W0Y8",
+            "latitude": "53.354113",
+            "longitude": "-6.212926"
+          },
+          {
+            "addressline1": "Dublin Port Company Service Station",
+            "addressline2": "Promenade Road",
+            "addressline3": "Dublin Port",
+            "summaryline": "Circle K, Dublin Port Company Service Station, Promenade Road, Dublin Port, Dublin 3, D03 W0Y8",
+            "organisation": "Circle K",
+            "buildingname": "Dublin Port Company Service Station",
+            "premise": "Dublin Port Company Service Station",
+            "street": "Promenade Road",
+            "dependentlocality": "Dublin Port",
+            "posttown": "Dublin 3",
+            "county": "Co. Dublin",
+            "postcode": "D03 W0Y8",
+            "latitude": "53.354113",
+            "longitude": "-6.212926"
+          },
+          {
+            "addressline1": "Port Operations Centre",
+            "addressline2": "Breakwater Road South",
+            "addressline3": "Dublin Port",
+            "summaryline": "Dublin Port Operations, Port Operations Centre, Breakwater Road South, Dublin Port, Dublin 1, D01 Y9C2",
+            "organisation": "Dublin Port Operations",
+            "buildingname": "Port Operations Centre",
+            "premise": "Port Operations Centre",
+            "street": "Breakwater Road South",
+            "dependentlocality": "Dublin Port",
+            "posttown": "Dublin 1",
+            "county": "Co. Dublin",
+            "postcode": "D01 Y9C2",
+            "latitude": "53.344891",
+            "longitude": "-6.203369",
+            "morevalues": "true",
+            "nextpage": "1",
+            "totalresults": "620446"
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "empty",
+      "Data": {
+        "count": 0,
+        "list": []
+      }
+    },
+    {
+      "Success": false,
+      "Message": "fail",
+      "Data": {
+        "count": 0,
+        "list": []
+      }
+    },
+    {
+      "Success": true,
+      "Message": "BT1 1EA BT11EA",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Belfast Education & Library Board, Central Library, Royal Avenue, Belfast, County Antrim, BT1 1EA",
+            "addressline1": "Belfast Education & Library Board",
+            "addressline2": "Central Library",
+            "addressline3": "Royal Avenue",
+            "organisation": "Belfast Education & Library Board",
+            "buildingname": "Central Library",
+            "street": "Royal Avenue",
+            "county": "County Antrim",
+            "postcode": "BT1 1EA",
+            "posttown": "Belfast",
+            "longitude": -5.93123674,
+            "latitude": 54.6029358
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "BT54 6DS",
+      "Data": {
+        "count": 34,
+        "list": [
+          {
+            "summaryline": "9 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "9 Market Street",
+            "number": "9",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "11 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "11 Market Street",
+            "number": "11",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "13 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "13 Market Street",
+            "number": "13",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "15 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "15 Market Street",
+            "number": "15",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "21 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "21 Market Street",
+            "number": "21",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "23A Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "23A Market Street",
+            "number": "23A",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "23B Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "23B Market Street",
+            "number": "23B",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "41 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "41 Market Street",
+            "number": "41",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "43 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "43 Market Street",
+            "number": "43",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "53 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "53 Market Street",
+            "number": "53",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "55 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "55 Market Street",
+            "number": "55",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "57 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "57 Market Street",
+            "number": "57",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "59 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "59 Market Street",
+            "number": "59",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "61 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "61 Market Street",
+            "number": "61",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "63 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "63 Market Street",
+            "number": "63",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "63A Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "63A Market Street",
+            "number": "63A",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "67 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "67 Market Street",
+            "number": "67",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "69 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "69 Market Street",
+            "number": "69",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "71 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "71 Market Street",
+            "number": "71",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "73 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "73 Market Street",
+            "number": "73",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "75 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "75 Market Street",
+            "number": "75",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "77 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "77 Market Street",
+            "number": "77",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "79 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "79 Market Street",
+            "number": "79",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "81 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "81 Market Street",
+            "number": "81",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "83 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "83 Market Street",
+            "number": "83",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "85 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "85 Market Street",
+            "number": "85",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "87 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "87 Market Street",
+            "number": "87",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "89 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "89 Market Street",
+            "number": "89",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "91 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "91 Market Street",
+            "number": "91",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "Ballycastle Fireplaces, 63B Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "Ballycastle Fireplaces",
+            "addressline2": "63B Market Street",
+            "organisation": "Ballycastle Fireplaces",
+            "number": "63B",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "North Antrim Youth Association, 17-19 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "North Antrim Youth Association",
+            "addressline2": "17-19 Market Street",
+            "organisation": "North Antrim Youth Association",
+            "number": "17-19",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "Original Factory Shop, 47-49 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "Original Factory Shop",
+            "addressline2": "47-49 Market Street",
+            "organisation": "Original Factory Shop",
+            "number": "47-49",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "P J Dallat & Sons, 65 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "P J Dallat & Sons",
+            "addressline2": "65 Market Street",
+            "organisation": "P J Dallat & Sons",
+            "number": "65",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          },
+          {
+            "summaryline": "Moyle District County Council Depot, 25-39 Market Street, Ballycastle, County Antrim, BT54 6DS",
+            "addressline1": "Moyle District County Council Depot",
+            "addressline2": "25-39 Market Street",
+            "organisation": "Moyle District County Council Depot",
+            "number": "25-39",
+            "street": "Market Street",
+            "county": "County Antrim",
+            "postcode": "BT54 6DS",
+            "posttown": "Ballycastle",
+            "longitude": -6.255558,
+            "latitude": 55.2014351
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "bb11 005 bb11005",
+      "Data": {
+        "count": 15,
+        "list": [
+          {
+            "summaryline": "Apartment 005, Block A, Riverpoint, The Bishops Quay, Limerick, V94 TV27",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block A",
+            "addressline3": "Riverpoint",
+            "addressline4": "The Bishops Quay",
+            "buildingname": "Block A",
+            "number": "Apartment 005",
+            "street": "The Bishops Quay",
+            "county": "Co. Limerick",
+            "postcode": "V94 TV27",
+            "posttown": "Limerick",
+            "longitude": -8.632352,
+            "latitude": 52.6614723
+          },
+          {
+            "summaryline": "Apartment 005, The Old Infirmary, John's Hill, Waterford, X91 DT72",
+            "addressline1": "Apartment 005",
+            "addressline2": "The Old Infirmary",
+            "addressline3": "John's Hill",
+            "buildingname": "The Old Infirmary",
+            "number": "Apartment 005",
+            "street": "John's Hill",
+            "county": "Co. Waterford",
+            "postcode": "X91 DT72",
+            "posttown": "Waterford",
+            "longitude": -7.108454,
+            "latitude": 52.25369
+          },
+          {
+            "summaryline": "Apartment 005, Block D, The Glen, Clon Brugh, Aiken's Village, Dublin 18, D18 AP27",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block D, The Glen",
+            "addressline3": "Clon Brugh",
+            "addressline4": "Aiken's Village, Sandyford",
+            "buildingname": "Block D",
+            "number": "Apartment 005",
+            "street": "Clon Brugh",
+            "doubledependentlocality": "Aiken's Village",
+            "dependentlocality": "Sandyford",
+            "county": "Co. Dublin",
+            "postcode": "D18 AP27",
+            "posttown": "Dublin 18",
+            "longitude": -6.226435,
+            "latitude": 53.2635078
+          },
+          {
+            "summaryline": "Apartment 005, Buckley Hall, 27-30 Buckingham Street Lower, Dublin 1, D01 VP26",
+            "addressline1": "Apartment 005",
+            "addressline2": "27-30 Buckley Hall",
+            "addressline3": "Buckingham Street Lower",
+            "buildingname": "27-30 Buckley Hall",
+            "number": "Apartment 005",
+            "street": "Buckingham Street Lower",
+            "county": "Co. Dublin",
+            "postcode": "D01 VP26",
+            "posttown": "Dublin 1",
+            "longitude": -6.250017,
+            "latitude": 53.35373
+          },
+          {
+            "summaryline": "Apartment 005, Block C, The Wood, Clon Brugh, Aiken's Village, Dublin 18, D18 K206",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block C, The Wood",
+            "addressline3": "Clon Brugh",
+            "addressline4": "Aiken's Village, Sandyford",
+            "buildingname": "Block C",
+            "number": "Apartment 005",
+            "street": "Clon Brugh",
+            "doubledependentlocality": "Aiken's Village",
+            "dependentlocality": "Sandyford",
+            "county": "Co. Dublin",
+            "postcode": "D18 K206",
+            "posttown": "Dublin 18",
+            "longitude": -6.227853,
+            "latitude": 53.2636757
+          },
+          {
+            "summaryline": "Apartment 005, Tivoli Court, Harold's Cross Road, Dublin 6W, D6W FK81",
+            "addressline1": "Apartment 005",
+            "addressline2": "Tivoli Court",
+            "addressline3": "Harold's Cross Road",
+            "addressline4": "Harold's Cross",
+            "number": "Apartment 005",
+            "street": "Harold's Cross Road",
+            "dependentlocality": "Harold's Cross",
+            "county": "Co. Dublin",
+            "postcode": "D6W FK81",
+            "posttown": "Dublin 6W",
+            "longitude": -6.279641,
+            "latitude": 53.3202248
+          },
+          {
+            "summaryline": "Apartment 005, Block 2A, Spencer Place Residential, Mayor Street Upper, Dublin 1, D01 F1W0",
+            "addressline1": "Apartment 005, Block 2A",
+            "addressline2": "Spencer Place Residential",
+            "addressline3": "Mayor Street Upper",
+            "addressline4": "North Wall",
+            "buildingname": "Block 2A",
+            "number": "Apartment 005",
+            "street": "Mayor Street Upper",
+            "dependentlocality": "North Wall",
+            "county": "Co. Dublin",
+            "postcode": "D01 F1W0",
+            "posttown": "Dublin 1",
+            "longitude": -6.236453,
+            "latitude": 53.34932
+          },
+          {
+            "summaryline": "Apartment 005, Block 1B, Spencer Place Residential, Mayor Street Upper, Dublin 1, D01 K1E8",
+            "addressline1": "Apartment 005, Block 1B",
+            "addressline2": "Spencer Place Residential",
+            "addressline3": "Mayor Street Upper",
+            "addressline4": "North Wall",
+            "buildingname": "Block 1B",
+            "number": "Apartment 005",
+            "street": "Mayor Street Upper",
+            "dependentlocality": "North Wall",
+            "county": "Co. Dublin",
+            "postcode": "D01 K1E8",
+            "posttown": "Dublin 1",
+            "longitude": -6.235473,
+            "latitude": 53.34982
+          },
+          {
+            "summaryline": "Apartment 005, Block 1A, Spencer Place Residential, Mayor Street Upper, Dublin 1, D01 X5T3",
+            "addressline1": "Apartment 005, Block 1A",
+            "addressline2": "Spencer Place Residential",
+            "addressline3": "Mayor Street Upper",
+            "addressline4": "North Wall",
+            "buildingname": "Block 1A",
+            "number": "Apartment 005",
+            "street": "Mayor Street Upper",
+            "dependentlocality": "North Wall",
+            "county": "Co. Dublin",
+            "postcode": "D01 X5T3",
+            "posttown": "Dublin 1",
+            "longitude": -6.236247,
+            "latitude": 53.349823
+          },
+          {
+            "summaryline": "Apartment 005, Block 2B, Spencer Place Residential, Mayor Street Upper, Dublin 1, D01 A6Y2",
+            "addressline1": "Apartment 005, Block 2B",
+            "addressline2": "Spencer Place Residential",
+            "addressline3": "Mayor Street Upper",
+            "addressline4": "North Wall",
+            "buildingname": "Block 2B",
+            "number": "Apartment 005",
+            "street": "Mayor Street Upper",
+            "dependentlocality": "North Wall",
+            "county": "Co. Dublin",
+            "postcode": "D01 A6Y2",
+            "posttown": "Dublin 1",
+            "longitude": -6.235525,
+            "latitude": 53.3491325
+          },
+          {
+            "summaryline": "Apartment 005, Block B, The Hill, Clon Brugh, Aiken's Village, Dublin 18, D18 W440",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block B, The Hill",
+            "addressline3": "Clon Brugh",
+            "addressline4": "Aiken's Village, Sandyford",
+            "buildingname": "Block B",
+            "number": "Apartment 005",
+            "street": "Clon Brugh",
+            "doubledependentlocality": "Aiken's Village",
+            "dependentlocality": "Sandyford",
+            "county": "Co. Dublin",
+            "postcode": "D18 W440",
+            "posttown": "Dublin 18",
+            "longitude": -6.227208,
+            "latitude": 53.26309
+          },
+          {
+            "summaryline": "Apartment 005, Block 1A, Griffith Hall, Griffith College, South Circular Road, Dublin 8, D08 VK27",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block 1A, Griffith Hall",
+            "addressline3": "Griffith College",
+            "addressline4": "South Circular Road",
+            "buildingname": "Block 1A, Griffith Hall",
+            "number": "Apartment 005",
+            "street": "South Circular Road",
+            "county": "Co. Dublin",
+            "postcode": "D08 VK27",
+            "posttown": "Dublin 8",
+            "longitude": -6.279417,
+            "latitude": 53.33028
+          },
+          {
+            "summaryline": "Apartment 005, An Sean Mhuíleann, North Circular Road, Tralee, Co. Kerry, V92 HW53",
+            "addressline1": "Apartment 005",
+            "addressline2": "An Sean Mhuíleann",
+            "addressline3": "North Circular Road",
+            "buildingname": "An Sean Mhuíleann",
+            "number": "Apartment 005",
+            "street": "North Circular Road",
+            "county": "Co. Kerry",
+            "postcode": "V92 HW53",
+            "posttown": "Tralee",
+            "longitude": -9.701126,
+            "latitude": 52.27125
+          },
+          {
+            "summaryline": "Apartment 005, Building 3 Vantage East, Central Park, Dublin 18, D18 X674",
+            "addressline1": "Apartment 005",
+            "addressline2": "Building 3 Vantage East",
+            "addressline3": "Central Park, Leopardstown Road",
+            "addressline4": "Leopardstown",
+            "buildingname": "Building 3 Vantage East",
+            "number": "Apartment 005",
+            "street": "Leopardstown Road",
+            "dependentlocality": "Leopardstown",
+            "county": "Co. Dublin",
+            "postcode": "D18 X674",
+            "posttown": "Dublin 18",
+            "longitude": -6.202758,
+            "latitude": 53.2710838
+          },
+          {
+            "summaryline": "Apartment 005, Block A, The Park, Clon Brugh, Aiken's Village, Dublin 18, D18 EH60",
+            "addressline1": "Apartment 005",
+            "addressline2": "Block A, The Park",
+            "addressline3": "Clon Brugh",
+            "addressline4": "Aiken's Village, Sandyford",
+            "buildingname": "Block A",
+            "number": "Apartment 005",
+            "street": "Clon Brugh",
+            "doubledependentlocality": "Aiken's Village",
+            "dependentlocality": "Sandyford",
+            "county": "Co. Dublin",
+            "postcode": "D18 EH60",
+            "posttown": "Dublin 18",
+            "longitude": -6.226021,
+            "latitude": 53.2628937
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "20 Addresse(s) found",
+      "Data": {
+        "count": 20,
+        "list": [
+          {
+            "summaryline": "285 Larchville, Waterford, X91 X3XV",
+            "addressline1": "285 Larchville",
+            "number": "285",
+            "dependentlocality": "Larchville",
+            "county": "Co. Waterford",
+            "postcode": "X91 X3XV",
+            "posttown": "Waterford",
+            "longitude": -7.138362,
+            "latitude": 52.2496529
+          },
+          {
+            "summaryline": "285 Pearse Avenue, Sallynoggin, Co. Dublin, A96 P9X3",
+            "addressline1": "285 Pearse Avenue",
+            "addressline2": "Sallynoggin",
+            "number": "285",
+            "street": "Pearse Avenue",
+            "dependentlocality": "Sallynoggin",
+            "county": "Co. Dublin",
+            "postcode": "A96 P9X3",
+            "posttown": "Glenageary",
+            "longitude": -6.142223,
+            "latitude": 53.2728958
+          },
+          {
+            "summaryline": "Meaghers, 283/285 Richmond Road, Dublin 3, D03 DK26",
+            "addressline1": "Meaghers",
+            "addressline2": "283/285 Richmond Road",
+            "addressline3": "Ballybough",
+            "organisation": "Meaghers",
+            "number": "283/285",
+            "street": "Richmond Road",
+            "dependentlocality": "Ballybough",
+            "county": "Co. Dublin",
+            "postcode": "D03 DK26",
+            "posttown": "Dublin 3",
+            "longitude": -6.242293,
+            "latitude": 53.36273
+          },
+          {
+            "summaryline": "Leo Pharma, 285 Cashel Road, Dublin 12, D12 E923",
+            "addressline1": "Leo Pharma",
+            "addressline2": "285 Cashel Road",
+            "addressline3": "Crumlin",
+            "organisation": "Leo Pharma",
+            "number": "285",
+            "street": "Cashel Road",
+            "dependentlocality": "Crumlin",
+            "county": "Co. Dublin",
+            "postcode": "D12 E923",
+            "posttown": "Dublin 12",
+            "longitude": -6.301265,
+            "latitude": 53.31668
+          },
+          {
+            "summaryline": "285 Saint Mary's Green, Collooney, Co. Sligo, F91 HF50",
+            "addressline1": "285 Saint Mary's Green",
+            "addressline2": "Collooney",
+            "number": "285",
+            "street": "Saint Mary's Green",
+            "dependentlocality": "Collooney",
+            "county": "Co. Sligo",
+            "postcode": "F91 HF50",
+            "posttown": "Sligo",
+            "longitude": -8.491162,
+            "latitude": 54.18115
+          },
+          {
+            "summaryline": "285 Beechdale, Dunboyne, Co. Meath, A86 EA44",
+            "addressline1": "285 Beechdale",
+            "number": "285",
+            "street": "Beechdale",
+            "county": "Co. Meath",
+            "postcode": "A86 EA44",
+            "posttown": "Dunboyne",
+            "longitude": -6.469336,
+            "latitude": 53.4131966
+          },
+          {
+            "summaryline": "285 Oldbridge Station, Osberstown, Naas, Co. Kildare, W91 K2W8",
+            "addressline1": "285 Oldbridge Station",
+            "addressline2": "Osberstown",
+            "number": "285",
+            "street": "Oldbridge Station",
+            "dependentlocality": "Osberstown",
+            "county": "Co. Kildare",
+            "postcode": "W91 K2W8",
+            "posttown": "Naas",
+            "longitude": -6.666354,
+            "latitude": 53.2451363
+          },
+          {
+            "summaryline": "285 Árd Uisce, Whiterock Hill, Wexford, Y35 PAF5",
+            "addressline1": "285 Árd Uisce",
+            "addressline2": "Whiterock Hill",
+            "number": "285",
+            "street": "Árd Uisce",
+            "dependentlocality": "Whiterock Hill",
+            "county": "Co. Wexford",
+            "postcode": "Y35 PAF5",
+            "posttown": "Wexford",
+            "longitude": -6.475528,
+            "latitude": 52.315918
+          },
+          {
+            "summaryline": "285 Charlesland Park, Charlesland, Greystones, Co. Wicklow, A63 PC84",
+            "addressline1": "285 Charlesland Park",
+            "addressline2": "Charlesland",
+            "number": "285",
+            "street": "Charlesland Park",
+            "dependentlocality": "Charlesland",
+            "county": "Co. Wicklow",
+            "postcode": "A63 PC84",
+            "posttown": "Greystones",
+            "longitude": -6.071274,
+            "latitude": 53.12546
+          },
+          {
+            "summaryline": "285 Beech Park, Lucan, Co. Dublin, K78 CX36",
+            "addressline1": "285 Beech Park",
+            "number": "285",
+            "street": "Beech Park",
+            "county": "Co. Dublin",
+            "postcode": "K78 CX36",
+            "posttown": "Lucan",
+            "longitude": -6.435003,
+            "latitude": 53.3546867
+          },
+          {
+            "summaryline": "285 Seapark, Malahide, Co. Dublin, K36 TD30",
+            "addressline1": "285 Seapark",
+            "number": "285",
+            "street": "Seapark",
+            "county": "Co. Dublin",
+            "postcode": "K36 TD30",
+            "posttown": "Malahide",
+            "longitude": -6.144635,
+            "latitude": 53.4479637
+          },
+          {
+            "summaryline": "Apartment 285, The Sycamores, Carrington, Northwood, Dublin 9, D09 WY10",
+            "addressline1": "Apartment 285",
+            "addressline2": "The Sycamores",
+            "addressline3": "Carrington",
+            "addressline4": "Northwood",
+            "number": "Apartment 285",
+            "street": "Carrington",
+            "dependentlocality": "Northwood",
+            "county": "Co. Dublin",
+            "postcode": "D09 WY10",
+            "posttown": "Dublin 9",
+            "longitude": -6.253064,
+            "latitude": 53.4040642
+          },
+          {
+            "summaryline": "285 Connolly Road, Ballyphehane, Cork, T12 E4P9",
+            "addressline1": "285 Connolly Road",
+            "addressline2": "Ballyphehane",
+            "number": "285",
+            "street": "Connolly Road",
+            "dependentlocality": "Ballyphehane",
+            "county": "Co. Cork",
+            "postcode": "T12 E4P9",
+            "posttown": "Cork",
+            "longitude": -8.481386,
+            "latitude": 51.87857
+          },
+          {
+            "summaryline": "285 Old Youghal Road, Cork, T23 D7W2",
+            "addressline1": "285 Old Youghal Road",
+            "number": "285",
+            "street": "Old Youghal Road",
+            "county": "Co. Cork",
+            "postcode": "T23 D7W2",
+            "posttown": "Cork",
+            "longitude": -8.451006,
+            "latitude": 51.9097672
+          },
+          {
+            "summaryline": "Saint Malos, 285 Blarney Street, Cork, T23 N2H4",
+            "addressline1": "285 Saint Malos",
+            "addressline2": "Blarney Street",
+            "buildingname": "Saint Malos",
+            "number": "285",
+            "street": "Blarney Street",
+            "county": "Co. Cork",
+            "postcode": "T23 N2H4",
+            "posttown": "Cork",
+            "longitude": -8.489765,
+            "latitude": 51.90105
+          },
+          {
+            "summaryline": "285 Cathedral Road, Gurranebraher, Cork, T23 E12R",
+            "addressline1": "285 Cathedral Road",
+            "addressline2": "Gurranebraher",
+            "number": "285",
+            "street": "Cathedral Road",
+            "dependentlocality": "Gurranebraher",
+            "county": "Co. Cork",
+            "postcode": "T23 E12R",
+            "posttown": "Cork",
+            "longitude": -8.493154,
+            "latitude": 51.9034
+          },
+          {
+            "summaryline": "285 Glendale Meadows, Leixlip, Naas, Co. Kildare, W23 A375",
+            "addressline1": "285 Glendale Meadows",
+            "addressline2": "Leixlip",
+            "number": "285",
+            "street": "Glendale Meadows",
+            "dependentlocality": "Leixlip",
+            "county": "Co. Kildare",
+            "postcode": "W23 A375",
+            "posttown": "Naas",
+            "longitude": -6.479934,
+            "latitude": 53.3698769
+          },
+          {
+            "summaryline": "285 Duncreevan, Kilcock, Naas, Co. Kildare, W23 TW86",
+            "addressline1": "285 Duncreevan",
+            "addressline2": "Kilcock",
+            "number": "285",
+            "street": "Duncreevan",
+            "dependentlocality": "Kilcock",
+            "county": "Co. Kildare",
+            "postcode": "W23 TW86",
+            "posttown": "Naas",
+            "longitude": -6.673107,
+            "latitude": 53.3958244
+          },
+          {
+            "summaryline": "285 Palmerstown Woods, Dublin 22, D22 W744",
+            "addressline1": "285 Palmerstown Woods",
+            "addressline2": "Clondalkin",
+            "number": "285",
+            "street": "Palmerstown Woods",
+            "dependentlocality": "Clondalkin",
+            "county": "Co. Dublin",
+            "postcode": "D22 W744",
+            "posttown": "Dublin 22",
+            "longitude": -6.391865,
+            "latitude": 53.3375473
+          },
+          {
+            "summaryline": "285 Cherrywood Lawn, Dublin 22, D22 RY22",
+            "addressline1": "285 Cherrywood Lawn",
+            "addressline2": "Clondalkin",
+            "number": "285",
+            "street": "Cherrywood Lawn",
+            "dependentlocality": "Clondalkin",
+            "county": "Co. Dublin",
+            "postcode": "D22 RY22",
+            "posttown": "Dublin 22",
+            "morevalues": true,
+            "nextpage": 1,
+            "totalresults": 119,
+            "longitude": -6.413582,
+            "latitude": 53.31747
+          }
+        ]
+      }
+    },
+    {
+      "Success": false,
+      "Message": "K0L 1Z0 K0L1Z0",
+      "Data": {
+        "count": 0,
+        "list": []
+      }
+    },
+    {
+      "Success": true,
+      "Message": "N91 H970 N91H970",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Abc Bouncy Castles, 70 Ardleigh Park, Mullingar, Co. Westmeath, N91 H970",
+            "addressline1": "Abc Bouncy Castles",
+            "addressline2": "70 Ardleigh Park",
+            "organisation": "Abc Bouncy Castles",
+            "number": "70",
+            "street": "Ardleigh Park",
+            "county": "Co. Westmeath",
+            "postcode": "N91 H970",
+            "posttown": "Mullingar",
+            "longitude": -7.36717,
+            "latitude": 53.5228233
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "R32 E721 R32E721",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Ejp Concrete Structures Limited, Derrylusk, Mountrath, Portlaoise, Co. Laois, R32 E721",
+            "addressline1": "Ejp Concrete Structures Limited",
+            "addressline2": "Derrylusk",
+            "addressline3": "Mountrath",
+            "organisation": "Ejp Concrete Structures Limited",
+            "doubledependentlocality": "Derrylusk",
+            "dependentlocality": "Mountrath",
+            "county": "Co. Laois",
+            "postcode": "R32 E721",
+            "posttown": "Portlaoise",
+            "longitude": -7.467844,
+            "latitude": 53.0160332
+          }
+        ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "D02 X285 D02X285",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "summaryline": "Department of Communications, Climate Action and Environment, 29-31 Adelaide Road, Dublin 2, D02 X285",
+            "addressline1": "Department of Communications, Climate Action and Environment",
+            "addressline2": "29-31 Adelaide Road",
+            "organisation": "Department of Communications, Climate Action and Environment",
+            "number": "29-31",
+            "street": "Adelaide Road",
+            "county": "Co. Dublin",
+            "postcode": "D02 X285",
+            "posttown": "Dublin 2",
+            "longitude": -6.255492,
+            "latitude": 53.3320656
+          }
+        ]
+      }
+    },
+
+    {
+      "Success": true,
+      "Message": "queen",
+      "Data": {
+        "count": 4,
+        "list": [
+          {
+              "id": "UK@STATE|West Yorkshire@CTY|{Queensbury@LOC,Bradford@PTN,BD@PCDA,BD13@PCDD}@LOC",
+              "type": "LOC",
+              "summaryline": "Queensbury, BD13",
+              "locationsummary": "Bradford, West Yorkshire",
+              "count": 6242
+          },
+          {
+              "id": "UK@STATE|{City of Edinburgh@CTY,EH@PCDA}@CTY|{South Queensferry@LOC,EH30@PCDD,EH30-9@PCDS}@LOC",
+              "type": "LOC",
+              "summaryline": "South Queensferry, EH30 9",
+              "locationsummary": "City of Edinburgh",
+              "count": 4909
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY|London@LOC|{Wandsworth@LAD,SW@PCDA}@LAD|Queenstown Road@STR",
+              "type": "STR",
+              "summaryline": "Queenstown Road",
+              "locationsummary": "London, Wandsworth, SW",
+              "count": 2713
+          },
+          {
+              "id": "UK@STATE|West Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "West Yorkshire",
+              "locationsummary": "",
+              "count": 12779
+          },
+          {
+              "id": "UK@STATE|{City of Edinburgh@CTY,EH@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "City of Edinburgh",
+              "locationsummary": "",
+              "count": 6457
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY",
+              "type": "CTY",
+              "summaryline": "Greater London",
+              "locationsummary": "",
+              "count": 27353
+          },
+          {
+              "id": "UK@STATE|Kent@CTY",
+              "type": "CTY",
+              "summaryline": "Kent",
+              "locationsummary": "",
+              "count": 8774
+          },
+          {
+              "id": "UK@STATE|West Midlands@CTY",
+              "type": "CTY",
+              "summaryline": "West Midlands",
+              "locationsummary": "",
+              "count": 6916
+          },
+          {
+              "id": "UK@STATE|Lancashire@CTY",
+              "type": "CTY",
+              "summaryline": "Lancashire",
+              "locationsummary": "",
+              "count": 6589
+          },
+          {
+              "id": "UK@STATE|Surrey@CTY",
+              "type": "CTY",
+              "summaryline": "Surrey",
+              "locationsummary": "",
+              "count": 5847
+          },
+          {
+              "id": "UK@STATE|Hampshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hampshire",
+              "locationsummary": "",
+              "count": 5346
+          },
+          {
+              "id": "UK@STATE|Essex@CTY",
+              "type": "CTY",
+              "summaryline": "Essex",
+              "locationsummary": "",
+              "count": 5131
+          },
+          {
+              "id": "UK@STATE|South Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "South Yorkshire",
+              "locationsummary": "",
+              "count": 4136
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY",
+              "type": "CTY",
+              "summaryline": "Merseyside",
+              "locationsummary": "",
+              "count": 4062
+          },
+          {
+              "id": "UK@STATE|Lincolnshire@CTY",
+              "type": "CTY",
+              "summaryline": "Lincolnshire",
+              "locationsummary": "",
+              "count": 3952
+          },
+          {
+              "id": "UK@STATE|Cheshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cheshire",
+              "locationsummary": "",
+              "count": 3449
+          },
+          {
+              "id": "UK@STATE|Devon@CTY",
+              "type": "CTY",
+              "summaryline": "Devon",
+              "locationsummary": "",
+              "count": 3327
+          },
+          {
+              "id": "UK@STATE|East Sussex@CTY",
+              "type": "CTY",
+              "summaryline": "East Sussex",
+              "locationsummary": "",
+              "count": 3098
+          },
+          {
+              "id": "UK@STATE|North Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "North Yorkshire",
+              "locationsummary": "",
+              "count": 2860
+          },
+          {
+              "id": "UK@STATE|Nottinghamshire@CTY",
+              "type": "CTY",
+              "summaryline": "Nottinghamshire",
+              "locationsummary": "",
+              "count": 2896
+          },
+          {
+              "id": "UK@STATE|Tyne and Wear@CTY",
+              "type": "CTY",
+              "summaryline": "Tyne and Wear",
+              "locationsummary": "",
+              "count": 2800
+          },
+          {
+              "id": "UK@STATE|Hertfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hertfordshire",
+              "locationsummary": "",
+              "count": 2727
+          },
+          {
+              "id": "UK@STATE|Cambridgeshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cambridgeshire",
+              "locationsummary": "",
+              "count": 2534
+          },
+          {
+              "id": "UK@STATE|{City of Glasgow@CTY,G@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "City of Glasgow",
+              "locationsummary": "",
+              "count": 2514
+          },
+          {
+              "id": "UK@STATE|Somerset@CTY",
+              "type": "CTY",
+              "summaryline": "Somerset",
+              "locationsummary": "",
+              "count": 2508
+          },
+          {
+              "id": "UK@STATE|Derbyshire@CTY",
+              "type": "CTY",
+              "summaryline": "Derbyshire",
+              "locationsummary": "",
+              "count": 2465
+          }
+      ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "manor",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+              "id": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR",
+              "type": "STR",
+              "summaryline": "Manor Road, BH1 3",
+              "locationsummary": "Bournemouth, Dorset",
+              "count": 1121
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC",
+              "type": "LOC",
+              "summaryline": "Sutton Manor, WA9 4",
+              "locationsummary": "St. Helens, Merseyside",
+              "count": 1281
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY",
+              "type": "CTY",
+              "summaryline": "Greater London",
+              "locationsummary": "",
+              "count": 14807
+          },
+          {
+              "id": "UK@STATE|Surrey@CTY",
+              "type": "CTY",
+              "summaryline": "Surrey",
+              "locationsummary": "",
+              "count": 8868
+          },
+          {
+              "id": "UK@STATE|Kent@CTY",
+              "type": "CTY",
+              "summaryline": "Kent",
+              "locationsummary": "",
+              "count": 7549
+          },
+          {
+              "id": "UK@STATE|West Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "West Yorkshire",
+              "locationsummary": "",
+              "count": 7287
+          },
+          {
+              "id": "UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Antrim",
+              "locationsummary": "",
+              "count": 5829
+          },
+          {
+              "id": "UK@STATE|Hampshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hampshire",
+              "locationsummary": "",
+              "count": 4940
+          },
+          {
+              "id": "UK@STATE|North Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "North Yorkshire",
+              "locationsummary": "",
+              "count": 4513
+          },
+          {
+              "id": "UK@STATE|South Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "South Yorkshire",
+              "locationsummary": "",
+              "count": 4455
+          },
+          {
+              "id": "UK@STATE|West Midlands@CTY",
+              "type": "CTY",
+              "summaryline": "West Midlands",
+              "locationsummary": "",
+              "count": 4404
+          },
+          {
+              "id": "UK@STATE|Devon@CTY",
+              "type": "CTY",
+              "summaryline": "Devon",
+              "locationsummary": "",
+              "count": 3983
+          },
+          {
+              "id": "UK@STATE|Dorset@CTY",
+              "type": "CTY",
+              "summaryline": "Dorset",
+              "locationsummary": "",
+              "count": 3884
+          },
+          {
+              "id": "UK@STATE|Lancashire@CTY",
+              "type": "CTY",
+              "summaryline": "Lancashire",
+              "locationsummary": "",
+              "count": 3898
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY",
+              "type": "CTY",
+              "summaryline": "Merseyside",
+              "locationsummary": "",
+              "count": 3885
+          },
+          {
+              "id": "UK@STATE|Somerset@CTY",
+              "type": "CTY",
+              "summaryline": "Somerset",
+              "locationsummary": "",
+              "count": 3881
+          },
+          {
+              "id": "UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Armagh",
+              "locationsummary": "",
+              "count": 3706
+          },
+          {
+              "id": "UK@STATE|West Sussex@CTY",
+              "type": "CTY",
+              "summaryline": "West Sussex",
+              "locationsummary": "",
+              "count": 3686
+          },
+          {
+              "id": "UK@STATE|Lincolnshire@CTY",
+              "type": "CTY",
+              "summaryline": "Lincolnshire",
+              "locationsummary": "",
+              "count": 3477
+          },
+          {
+              "id": "UK@STATE|Cheshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cheshire",
+              "locationsummary": "",
+              "count": 3378
+          },
+          {
+              "id": "UK@STATE|Essex@CTY",
+              "type": "CTY",
+              "summaryline": "Essex",
+              "locationsummary": "",
+              "count": 3318
+          },
+          {
+              "id": "UK@STATE|{County Down@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Down",
+              "locationsummary": "",
+              "count": 3131
+          },
+          {
+              "id": "UK@STATE|Oxfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Oxfordshire",
+              "locationsummary": "",
+              "count": 3188
+          },
+          {
+              "id": "UK@STATE|Wiltshire@CTY",
+              "type": "CTY",
+              "summaryline": "Wiltshire",
+              "locationsummary": "",
+              "count": 3032
+          },
+          {
+              "id": "UK@STATE|Hertfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hertfordshire",
+              "locationsummary": "",
+              "count": 2910
+          },
+          {
+              "id": "UK@STATE|Norfolk@CTY",
+              "type": "CTY",
+              "summaryline": "Norfolk",
+              "locationsummary": "",
+              "count": 2717
+          },
+          {
+              "id": "UK@STATE|Northamptonshire@CTY",
+              "type": "CTY",
+              "summaryline": "Northamptonshire",
+              "locationsummary": "",
+              "count": 2727
+          },
+          {
+              "id": "UK@STATE|Derbyshire@CTY",
+              "type": "CTY",
+              "summaryline": "Derbyshire",
+              "locationsummary": "",
+              "count": 2427
+          },
+          {
+              "id": "UK@STATE|Nottinghamshire@CTY",
+              "type": "CTY",
+              "summaryline": "Nottinghamshire",
+              "locationsummary": "",
+              "count": 2406
+          },
+          {
+              "id": "UK@STATE|Leicestershire@CTY",
+              "type": "CTY",
+              "summaryline": "Leicestershire",
+              "locationsummary": "",
+              "count": 2379
+          }
+      ]
+      }
+    },
+    {
+      "Success": true,
+      "Message": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC UK@STATE|Greater London@CTY UK@STATE|Surrey@CTY UK@STATE|Kent@CTY UK@STATE|West Yorkshire@CTY UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY UK@STATE|Hampshire@CTY UK@STATE|North Yorkshire@CTY UK@STATE|South Yorkshire@CTY UK@STATE|West Midlands@CTY UK@STATE|Devon@CTY UK@STATE|Dorset@CTY UK@STATE|Lancashire@CTY UK@STATE|Merseyside@CTY UK@STATE|Somerset@CTY UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY UK@STATE|West Sussex@CTY UK@STATE|Lincolnshire@CTY UK@STATE|Cheshire@CTY UK@STATE|Essex@CTY UK@STATE|{County Down@CTY,BT@PCDA}@CTY UK@STATE|Oxfordshire@CTY UK@STATE|Wiltshire@CTY UK@STATE|Hertfordshire@CTY UK@STATE|Norfolk@CTY UK@STATE|Northamptonshire@CTY UK@STATE|Derbyshire@CTY UK@STATE|Nottinghamshire@CTY UK@STATE|Leicestershire@CTY",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+            "addressline1": "Three, the Green",
+            "addressline2": "Dublin Airport Central",
+            "addressline3": "Corballis Road South, Dublin Airport",
+            "summaryline": "Fingal Dublin Chamber, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+            "organisation": "Fingal Dublin Chamber",
+            "buildingname": "Three, the Green",
+            "buildinggroupname": "Dublin Airport Central",
+            "premise": "Three, the Green, Dublin Airport Central",
+            "street": "Corballis Road South",
+            "dependentlocality": "Dublin Airport",
+            "posttown": "Swords",
+            "county": "Co. Dublin",
+            "postcode": "K67 X4X5",
+            "latitude": "53.427618",
+            "longitude": "-6.238154"
+          }
+        ]
+      }
+    }
+   ],
+
+   "postcoderHints":
+    {
+      "Success": true,
+      "Message": "manor",
+      "Data": {
+        "count": 1,
+        "list": [
+          {
+              "id": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR",
+              "type": "STR",
+              "summaryline": "Manor Road, BH1 3",
+              "locationsummary": "Bournemouth, Dorset",
+              "count": 1121
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC",
+              "type": "LOC",
+              "summaryline": "Sutton Manor, WA9 4",
+              "locationsummary": "St. Helens, Merseyside",
+              "count": 1281
+          },
+          {
+              "id": "UK@STATE|Greater London@CTY",
+              "type": "CTY",
+              "summaryline": "Greater London",
+              "locationsummary": "",
+              "count": 14807
+          },
+          {
+              "id": "UK@STATE|Surrey@CTY",
+              "type": "CTY",
+              "summaryline": "Surrey",
+              "locationsummary": "",
+              "count": 8868
+          },
+          {
+              "id": "UK@STATE|Kent@CTY",
+              "type": "CTY",
+              "summaryline": "Kent",
+              "locationsummary": "",
+              "count": 7549
+          },
+          {
+              "id": "UK@STATE|West Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "West Yorkshire",
+              "locationsummary": "",
+              "count": 7287
+          },
+          {
+              "id": "UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Antrim",
+              "locationsummary": "",
+              "count": 5829
+          },
+          {
+              "id": "UK@STATE|Hampshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hampshire",
+              "locationsummary": "",
+              "count": 4940
+          },
+          {
+              "id": "UK@STATE|North Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "North Yorkshire",
+              "locationsummary": "",
+              "count": 4513
+          },
+          {
+              "id": "UK@STATE|South Yorkshire@CTY",
+              "type": "CTY",
+              "summaryline": "South Yorkshire",
+              "locationsummary": "",
+              "count": 4455
+          },
+          {
+              "id": "UK@STATE|West Midlands@CTY",
+              "type": "CTY",
+              "summaryline": "West Midlands",
+              "locationsummary": "",
+              "count": 4404
+          },
+          {
+              "id": "UK@STATE|Devon@CTY",
+              "type": "CTY",
+              "summaryline": "Devon",
+              "locationsummary": "",
+              "count": 3983
+          },
+          {
+              "id": "UK@STATE|Dorset@CTY",
+              "type": "CTY",
+              "summaryline": "Dorset",
+              "locationsummary": "",
+              "count": 3884
+          },
+          {
+              "id": "UK@STATE|Lancashire@CTY",
+              "type": "CTY",
+              "summaryline": "Lancashire",
+              "locationsummary": "",
+              "count": 3898
+          },
+          {
+              "id": "UK@STATE|Merseyside@CTY",
+              "type": "CTY",
+              "summaryline": "Merseyside",
+              "locationsummary": "",
+              "count": 3885
+          },
+          {
+              "id": "UK@STATE|Somerset@CTY",
+              "type": "CTY",
+              "summaryline": "Somerset",
+              "locationsummary": "",
+              "count": 3881
+          },
+          {
+              "id": "UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Armagh",
+              "locationsummary": "",
+              "count": 3706
+          },
+          {
+              "id": "UK@STATE|West Sussex@CTY",
+              "type": "CTY",
+              "summaryline": "West Sussex",
+              "locationsummary": "",
+              "count": 3686
+          },
+          {
+              "id": "UK@STATE|Lincolnshire@CTY",
+              "type": "CTY",
+              "summaryline": "Lincolnshire",
+              "locationsummary": "",
+              "count": 3477
+          },
+          {
+              "id": "UK@STATE|Cheshire@CTY",
+              "type": "CTY",
+              "summaryline": "Cheshire",
+              "locationsummary": "",
+              "count": 3378
+          },
+          {
+              "id": "UK@STATE|Essex@CTY",
+              "type": "CTY",
+              "summaryline": "Essex",
+              "locationsummary": "",
+              "count": 3318
+          },
+          {
+              "id": "UK@STATE|{County Down@CTY,BT@PCDA}@CTY",
+              "type": "CTY",
+              "summaryline": "County Down",
+              "locationsummary": "",
+              "count": 3131
+          },
+          {
+              "id": "UK@STATE|Oxfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Oxfordshire",
+              "locationsummary": "",
+              "count": 3188
+          },
+          {
+              "id": "UK@STATE|Wiltshire@CTY",
+              "type": "CTY",
+              "summaryline": "Wiltshire",
+              "locationsummary": "",
+              "count": 3032
+          },
+          {
+              "id": "UK@STATE|Hertfordshire@CTY",
+              "type": "CTY",
+              "summaryline": "Hertfordshire",
+              "locationsummary": "",
+              "count": 2910
+          },
+          {
+              "id": "UK@STATE|Norfolk@CTY",
+              "type": "CTY",
+              "summaryline": "Norfolk",
+              "locationsummary": "",
+              "count": 2717
+          },
+          {
+              "id": "UK@STATE|Northamptonshire@CTY",
+              "type": "CTY",
+              "summaryline": "Northamptonshire",
+              "locationsummary": "",
+              "count": 2727
+          },
+          {
+              "id": "UK@STATE|Derbyshire@CTY",
+              "type": "CTY",
+              "summaryline": "Derbyshire",
+              "locationsummary": "",
+              "count": 2427
+          },
+          {
+              "id": "UK@STATE|Nottinghamshire@CTY",
+              "type": "CTY",
+              "summaryline": "Nottinghamshire",
+              "locationsummary": "",
+              "count": 2406
+          },
+          {
+              "id": "UK@STATE|Leicestershire@CTY",
+              "type": "CTY",
+              "summaryline": "Leicestershire",
+              "locationsummary": "",
+              "count": 2379
+          }
+      ]
+      }
+    },
+
+   "postcoderFull": 
+   {
+    "Success": true,
+    "Message": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC UK@STATE|Greater London@CTY UK@STATE|Surrey@CTY UK@STATE|Kent@CTY UK@STATE|West Yorkshire@CTY UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY UK@STATE|Hampshire@CTY UK@STATE|North Yorkshire@CTY UK@STATE|South Yorkshire@CTY UK@STATE|West Midlands@CTY UK@STATE|Devon@CTY UK@STATE|Dorset@CTY UK@STATE|Lancashire@CTY UK@STATE|Merseyside@CTY UK@STATE|Somerset@CTY UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY UK@STATE|West Sussex@CTY UK@STATE|Lincolnshire@CTY UK@STATE|Cheshire@CTY UK@STATE|Essex@CTY UK@STATE|{County Down@CTY,BT@PCDA}@CTY UK@STATE|Oxfordshire@CTY UK@STATE|Wiltshire@CTY UK@STATE|Hertfordshire@CTY UK@STATE|Norfolk@CTY UK@STATE|Northamptonshire@CTY UK@STATE|Derbyshire@CTY UK@STATE|Nottinghamshire@CTY UK@STATE|Leicestershire@CTY",
+    "Data": {
+      "count": 1,
+      "list": [
+        {
+          "addressline1": "Three, the Green",
+          "addressline2": "Dublin Airport Central",
+          "addressline3": "Corballis Road South, Dublin Airport",
+          "summaryline": "Fingal Dublin Chamber, Three, the Green, Dublin Airport Central, Dublin Airport, Swords, Co. Dublin, K67 X4X5",
+          "organisation": "Fingal Dublin Chamber",
+          "buildingname": "Three, the Green",
+          "buildinggroupname": "Dublin Airport Central",
+          "premise": "Three, the Green, Dublin Airport Central",
+          "street": "Corballis Road South",
+          "dependentlocality": "Dublin Airport",
+          "posttown": "Swords",
+          "county": "Co. Dublin",
+          "postcode": "K67 X4X5",
+          "latitude": "53.427618",
+          "longitude": "-6.238154"
+        }
+      ]
+    }
+  },
+
+  "coordinates": 
+  {
+   "Success": true,
+   "Message": "coordinates",
+   "Data": {
+         "latitude": "20.00",
+         "longitude": "-2.00"
+       }
+     
+   },
+   "coordinatesFalse": 
+  {
+   "Success": false,
+   "Message": "no coordinates found",
+   "Data": {
+     
+       }
+     
+   }
 }
