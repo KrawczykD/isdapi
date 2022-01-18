@@ -48163,7 +48163,7 @@
           },
           {
               "id": "UK@STATE|Greater London@CTY",
-              "type": "CTY",
+              "type": "ADD",
               "summaryline": "Greater London",
               "locationsummary": "",
               "count": 14807
