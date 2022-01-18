@@ -48170,14 +48170,14 @@
           },
           {
               "id": "UK@STATE|Surrey@CTY",
-              "type": "CTY",
+              "type": "ADD",
               "summaryline": "Surrey",
               "locationsummary": "",
               "count": 8868
           },
           {
               "id": "UK@STATE|Kent@CTY",
-              "type": "CTY",
+              "type": "ADD",
               "summaryline": "Kent",
               "locationsummary": "",
               "count": 7549
