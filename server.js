@@ -14,6 +14,9 @@
       "/postcoderhints/:option":"/postcoderhints?Message_like=:option",
       "/postcoderfull/:option":"/postcoderfull?Message_like=:option",
       "/coordinates":"/coordinates",
+      "/recentUpdatesSingle":"/single",
+      "/recentUpdatesFalse":"/false",
+      "/recentUpdatesNone":"none"
     }))
 
   server.use(middlewares);
