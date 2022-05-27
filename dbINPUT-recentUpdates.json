@@ -1,0 +1,27 @@
+{
+  "single": {
+    "Success": true,
+      "Message": "single",
+      "Data": {}
+        
+  },
+
+
+  "false": 
+  {
+   "Success": false,
+   "Message": "false response from server",
+   "Data": {
+         
+       }
+     
+   },
+
+   "none": 
+  {
+   "Success": true,
+   "Message": "nothink to return",
+   "Data": {}
+   }
+ }
+  
