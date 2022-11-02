@@ -4,16 +4,16 @@
         "Message": "multiple",
         "Data": {
            "customers": [
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0},
-            {"name":"test1","lat":0, "lng":0}
+            {"name":"Business name 1","base":{"lat":53.483, "lng":-2.244},"customer":{"lat":53.583, "lng":-2.254}},
+            {"name":"Business name 2","base":{"lat":53.413, "lng":-2.244},"customer":{"lat":53.683, "lng":-2.254}},
+            {"name":"Business name 3","base":{"lat":53.483, "lng":-2.244},"customer":{"lat":53.583, "lng":-2.254}},
+            {"name":"Business name 4 no base","base":{"lat":0, "lng":0},"customer":{"lat":53.523, "lng":-2.211}},
+            {"name":"Business name 5 no base","base":{"lat":0, "lng":0},"customer":{"lat":53.576, "lng":-2.234}},
+            {"name":"Business name 6 no base","base":{"lat":0, "lng":0},"customer":{"lat":53.554, "lng":-2.201}},
+            {"name":"Business name 7","base":{"lat":40.743, "lng":-73.922},"customer":{"lat":40.741, "lng":-73.998}},
+            {"name":"Business name 8","base":{"lat":40.789, "lng":-73.943},"customer":{"lat":40.785, "lng":-73.986}},
+            {"name":"Business name 9","base":{"lat":40.712, "lng":-73.911},"customer":{"lat":40.733, "lng":-73.900}},
+            {"name":"Business name 10","base":{"lat":40.733, "lng":-73.988},"customer":{"lat":40.712, "lng":-73.985}}
         ]
         }
           
