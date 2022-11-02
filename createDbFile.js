@@ -2,7 +2,7 @@ let mapurls = [];
 var fs = require('fs');
 //let db = require('./dbINPUT-postcoder.json')
 //let db = require('./dbINPUT-integral.json')
-let db = require('./dbINPUT-recentUpdates.json');
+let db = require('./dbINPUT-customers.json');
 
 
   for (let [key, value] of Object.entries(db)) {

@@ -1,0 +1,22 @@
+{
+    "multiple": {
+      "Success": true,
+        "Message": "multiple",
+        "Data": {
+           "customers": [
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0},
+            {"name":"test1","lat":0, "lng":0}
+        ]
+        }
+          
+    }
+   }
+    

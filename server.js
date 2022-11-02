@@ -16,7 +16,8 @@
       // "/coordinates":"/coordinates",
       "/Single":"/single",
       "/False":"/false",
-      "/None":"/none"
+      "/None":"/none",
+      "Customers":"/multiple"
     }))
 
   server.use(middlewares);
