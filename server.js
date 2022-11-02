@@ -17,7 +17,7 @@
       "/Single":"/single",
       "/False":"/false",
       "/None":"/none",
-      "Customers":"/multiple"
+      "/Customers":"/multiple"
     }))
 
   server.use(middlewares);
